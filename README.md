@@ -1,6 +1,6 @@
 # 🚀 LeetCode Solutions in JavaScript
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![GitHub Stars](https://img.shields.io/github/stars/07subhadip/LeetCode-Solutions?style=social)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![GitHub Stars](https://img.shields.io/github/stars/07subhadip/Leetcode-Solutions-JavaScript?style=social)
 
 Welcome to my repository of LeetCode solutions! 🎯 This repo is a collection of coding challenges I've tackled on LeetCode, with a strong focus on daily challenges and other intriguing problems, all solved using **JavaScript**. Whether you're a fellow coder, preparing for interviews, or simply curious, I hope you find these solutions helpful!
 
