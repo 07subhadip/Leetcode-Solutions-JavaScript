@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "heapify",
+        "indeg",
         "nums",
         "postorder",
         "Subarrays"
