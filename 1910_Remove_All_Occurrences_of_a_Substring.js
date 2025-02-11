@@ -3,13 +3,13 @@
  * @param {string} part
  * @return {string}
  */
-var removeOccurrences = function(s, part) {
+var removeOccurrences = function (s, part) {
     const stack = [];
     const partLen = part.length;
-    
+
     for (let i = 0; i < s.length; i++) {
         stack.push(s[i]);
-        
+
         if (stack.length >= partLen) {
             let match = true;
             for (let j = 0; j < partLen; j++) {
@@ -25,6 +25,6 @@ var removeOccurrences = function(s, part) {
             }
         }
     }
-    
+
     return stack.join('');
 };
