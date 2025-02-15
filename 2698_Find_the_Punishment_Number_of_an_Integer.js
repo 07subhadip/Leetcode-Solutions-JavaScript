@@ -2,9 +2,9 @@
  * @param {number} n
  * @return {number}
  */
-var punishmentNumber = function(n) {
+var punishmentNumber = function (n) {
     let total = 0;
-    
+
     const canPartition = (s, idx, currentSum, target) => {
         if (idx === s.length) {
             return currentSum === target;
@@ -26,6 +26,6 @@ var punishmentNumber = function(n) {
             total += i * i;
         }
     }
-    
+
     return total;
 };
