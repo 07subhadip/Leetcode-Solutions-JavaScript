@@ -4,6 +4,7 @@
         "indeg",
         "nums",
         "postorder",
+        "Preorder",
         "Subarrays"
     ],
     "bitoAI.codeCompletion.enableAutoCompletion": false
