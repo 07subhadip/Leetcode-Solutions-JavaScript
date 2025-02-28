@@ -6,7 +6,8 @@
         "postorder",
         "Preorder",
         "Subarrays",
-        "Subseq"
+        "Subseq",
+        "Supersequence"
     ],
     "bitoAI.codeCompletion.enableAutoCompletion": false
 }
