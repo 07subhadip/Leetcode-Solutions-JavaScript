@@ -12,3 +12,27 @@ var pivotArray = function (nums, pivot) {
 
     return [...less, ...equal, ...greater]
 };
+
+// 2nd Solution (Extended of 1st Solution)
+/**
+ * @param {number[]} nums
+ * @param {number} pivot
+ * @return {number[]}
+ */
+var pivotArray = function (nums, pivot) {
+    const less = [];
+    const equal = [];
+    const greater = [];
+
+    for (let num of nums) {
+        if (num < pivot) {
+            less.push(num);
+        } else if (num === pivot) {
+            equal.push(num);
+        } else {
+            greater.push(num);
+        }
+    }
+
+    return [...less, ...equal, ...greater];
+};
