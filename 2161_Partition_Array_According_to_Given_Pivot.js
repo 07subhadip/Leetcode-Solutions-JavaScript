@@ -14,6 +14,7 @@ var pivotArray = function (nums, pivot) {
 };
 
 // 2nd Solution (Extended of 1st Solution)
+
 /**
  * @param {number[]} nums
  * @param {number} pivot
