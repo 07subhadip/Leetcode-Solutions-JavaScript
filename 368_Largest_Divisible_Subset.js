@@ -38,7 +38,11 @@ var largestDivisibleSubset = function (nums) {
 
 // Solution 2: Beats 100% of JS submissions
 
-function largestDivisibleSubset(nums) {
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
+const largestDivisibleSubset = (nums) => {
     nums = new Uint32Array(nums).sort();
     const n = nums.length;
     const dp = new Uint16Array(n).fill(1);
