@@ -4,7 +4,7 @@
  */
 var firstMissingPositive = function (nums) {
     const seen = new Set()
-    
+
     for (const num of nums) {
         if (num > 0) {
             seen.add(num)
