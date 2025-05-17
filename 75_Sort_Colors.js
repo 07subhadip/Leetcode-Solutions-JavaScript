@@ -2,48 +2,26 @@
  * @param {number[]} nums
  * @return {void} Do not return anything, modify nums in-place instead.
  */
-var sortColors = function(nums) {
-    // let low = 0; // Pointer for 0
-    // let high = nums.length - 1; // Pointer for 2
-    // let i = 0; // Pointer for iteration
-    
-    // while (i <= high) {
-    //     if (nums[i] === 0) {
-    //         // Swap nums[i] with nums[low]
-    //         [nums[i], nums[low]] = [nums[low], nums[i]];
-    //         low++;
-    //         i++;
-    //     } else if (nums[i] === 2) {
-    //         // Swap nums[i] with nums[high]
-    //         [nums[i], nums[high]] = [nums[high], nums[i]];
-    //         high--;
-    //     } else {
-    //         // For nums[i] === 1, move to the next element
-    //         i++;
-    //     }
-    // }
+var sortColors = function (nums) {
+    const zero = [], one = [], two = []
 
-    let low = 0; // Pointer for 0
-    let high = nums.length - 1; // Pointer for 2
-    
-    let i = 0; // Iterator
-    
-    while (i <= high) {
-        if (nums[i] === 0) {
-            // Swap nums[i] with nums[low]
-            [nums[i], nums[low]] = [nums[low], nums[i]];
-            low++;
-            i++;
-        } else if (nums[i] === 2) {
-            // Swap nums[i] with nums[high]
-            [nums[i], nums[high]] = [nums[high], nums[i]];
-            high--;
-        } else {
-            // For nums[i] === 1, move to the next element
-            i++;
+    for (const val of nums) {
+        switch (val) {
+            case 1:
+                one.push(val)
+                break
+            case 2:
+                two.push(val)
+                break
+            case 0:
+                zero.push(val)
+                break
         }
     }
+
+    const sorted = [...zero, ...one, ...two]
+
+    for (let i = 0; i < nums.length; i++) {
+        nums[i] = sorted[i]
+    }
 };
-
-
-// Dutch National Flag Algorithm
