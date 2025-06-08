@@ -2,7 +2,7 @@
  * @param {number} n
  * @return {number[]}
  */
-var lexicalOrder = function(n) {
+var lexicalOrder = function (n) {
     const ans = [];
     let v = 1;
     for (let i = 0; i < n; ++i) {
@@ -18,3 +18,5 @@ var lexicalOrder = function(n) {
     }
     return ans;
 };
+
+// repeated on 08-06-2025
