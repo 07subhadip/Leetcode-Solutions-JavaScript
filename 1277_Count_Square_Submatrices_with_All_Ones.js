@@ -2,12 +2,12 @@
  * @param {number[][]} matrix
  * @return {number}
  */
-var countSquares = function(matrix) {
+var countSquares = function (matrix) {
     const m = matrix.length;
     const n = matrix[0].length;
     let ans = 0;
     const f = Array.from({ length: m }, () => Array(n).fill(0));
-    
+
     for (let i = 0; i < m; i++) {
         for (let j = 0; j < n; j++) {
             if (matrix[i][j] === 0) continue;
@@ -19,6 +19,6 @@ var countSquares = function(matrix) {
             ans += f[i][j];
         }
     }
-    
+
     return ans;
 };
