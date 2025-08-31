@@ -55,3 +55,58 @@ const solveSudoku = (board) => {
 
     solve();
 };
+
+
+// More optimized approach
+
+/**
+ * @param {character[][]} board
+ * @return {void} Do not return anything, modify board in-place instead.
+ */
+var solveSudoku2 = function(board) {
+    const n = 9;
+
+    const rows = Array.from({ length: 9 }, () => Array(10).fill(false));
+    const cols = Array.from({ length: 9 }, () => Array(10).fill(false));
+    const boxes = Array.from({ length: 9 }, () => Array(10).fill(false));
+
+    const getBoxIndex = (row, col) => Math.floor(row / 3) * 3 + Math.floor(col / 3);
+
+    for (let r = 0; r < n; r++) {
+        for (let c = 0; c < n; c++) {
+            const ch = board[r][c];
+            if (ch !== '.') {
+                const num = Number(ch);
+                rows[r][num] = true;
+                cols[c][num] = true;
+                boxes[getBoxIndex(r, c)][num] = true;
+            }
+        }
+    }
+
+    const solve = () => {
+        for (let r = 0; r < n; r++) {
+            for (let c = 0; c < n; c++) {
+                if (board[r][c] === '.') {
+                    for (let num = 1; num <= 9; num++) {
+                        const boxIdx = getBoxIndex(r, c);
+                        if (!rows[r][num] && !cols[c][num] && !boxes[boxIdx][num]) {
+                            board[r][c] = String(num);
+                            rows[r][num] = cols[c][num] = boxes[boxIdx][num] = true;
+
+                            if (solve()) return true;
+
+                            // backtrack
+                            board[r][c] = '.';
+                            rows[r][num] = cols[c][num] = boxes[boxIdx][num] = false;
+                        }
+                    }
+                    return false;
+                }
+            }
+        }
+        return true;
+    };
+
+    solve();
+};
