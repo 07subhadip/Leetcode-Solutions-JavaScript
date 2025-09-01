@@ -61,7 +61,7 @@ class MaxHeap {
  * @param {number} extraStudents
  * @return {number}
  */
-var maxAverageRatio = function(classes, extraStudents) {
+var maxAverageRatio = function (classes, extraStudents) {
     const maxHeap = new MaxHeap();
 
     for (const [passi, totali] of classes) {
@@ -86,3 +86,26 @@ var maxAverageRatio = function(classes, extraStudents) {
 
     return totalRatio / classes.length;
 };
+
+
+// Solution with default PriorityQueue
+
+function maxAverageRatio(classes, extraStudents) {
+    function calcGain(a, b) {
+        return (a + 1) / (b + 1) - a / b;
+    }
+    const pq = new PriorityQueue((p, q) => calcGain(q[0], q[1]) - calcGain(p[0], p[1]));
+    for (const [a, b] of classes) {
+        pq.enqueue([a, b]);
+    }
+    while (extraStudents-- > 0) {
+        const [a, b] = pq.dequeue();
+        pq.enqueue([a + 1, b + 1]);
+    }
+    let ans = 0;
+    while (!pq.isEmpty()) {
+        const [a, b] = pq.dequeue();
+        ans += a / b;
+    }
+    return ans / classes.length;
+}
