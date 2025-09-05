@@ -3,7 +3,7 @@
  * @param {number} num2
  * @return {number}
  */
-var makeTheIntegerZero = function (num1, num2) {
+var makeTheIntegerZero = (num1, num2) => {
     for (let k = 1; ; ++k) {
         let x = num1 - k * num2;
         if (x < 0) {
