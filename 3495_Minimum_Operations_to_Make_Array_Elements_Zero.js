@@ -2,7 +2,7 @@
  * @param {number[][]} queries
  * @return {number}
  */
-var minOperations = function (queries) {
+var minOperations = (queries) => {
     const f = (x) => {
         let res = 0;
         let p = 1;
