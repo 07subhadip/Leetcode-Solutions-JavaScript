@@ -1,0 +1,3766 @@
+[33mcommit 457dd9c23a17d05e2c6cc7f18b17e06820c76573[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Thu Feb 12 18:19:37 2026 +0530
+
+    Add solution for LeetCode 3713: Longest Balanced Substring I
+
+[33mcommit 367491d45aafd712075377abce5e74ce75fca30f[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Wed Feb 11 10:08:03 2026 +0530
+
+    Add solution for LeetCode 3721: Longest Balanced Subarray II
+
+[33mcommit 060e3a2370def50f348a5fefa9bd01a9baf31674[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Tue Feb 10 23:12:41 2026 +0530
+
+    feat: Add solution for LeetCode problem 3719 - Longest Balanced Subarray I
+
+[33mcommit 6d44a8e3ebf4db29c558362c391b20739a7cc758[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Mon Feb 9 20:47:45 2026 +0530
+
+    Add solution for LeetCode 1382: Balance a Binary Search Tree
+
+[33mcommit 916374660ef0835b8b45d0888f0e9dc13c1cc3fd[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sun Feb 8 10:47:24 2026 +0530
+
+    feat: add prettier config and Balanced Binary Tree solution
+
+[33mcommit b8182cf8bc877b9e31eb7d229d7f0ff1d3a8b541[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sat Feb 7 10:16:21 2026 +0530
+
+    feat: add solution for 1653 Minimum Deletions to Make String Balanced
+
+[33mcommit 077e1058b0b15b2b640fce298237fc5bd9362641[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Fri Feb 6 20:53:17 2026 +0530
+
+    feat: Add solution for LeetCode 3634 Minimum Removals to Balance Array.
+
+[33mcommit 14579be920d1904eb986217ed66165e84b5afea4[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Thu Feb 5 10:36:12 2026 +0530
+
+    feat: add solution for LeetCode problem 3379, Transformed Array.
+
+[33mcommit 799ef279bba0626bdf1e35bba991312a7f2f5335[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Wed Feb 4 20:33:14 2026 +0530
+
+    feat: add solution for the Trionic Array II problem.
+
+[33mcommit dc701eb62d383d922609c921dc328905fb136988[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Tue Feb 3 12:06:35 2026 +0530
+
+    feat: add solution for Trionic Array I problem
+
+[33mcommit caf70ee8f87e45cae8c1cf0bc0a5c9de6276dd78[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Mon Feb 2 20:15:30 2026 +0530
+
+    feat: Add solution for LeetCode 3013 Divide an Array Into Subarrays With Minimum Cost II.
+
+[33mcommit 1be2e6b67671fbcfa8cfe3d2ae898d7ee3ae52fb[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sun Feb 1 22:19:47 2026 +0530
+
+    feat: Add JavaScript solution for LeetCode 3010 Divide an Array Into Subarrays With Minimum Cost I.
+
+[33mcommit b2669a46b7cba1b406e1e3b6f5e5cf960ec5e8ea[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sat Jan 31 09:46:54 2026 +0530
+
+    feat: add solution for LeetCode 744 Find Smallest Letter Greater Than Target using `_.sortedIndex`.
+
+[33mcommit 4ee9158c284672a658771b711b88115eb5b22f7b[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Fri Jan 30 20:52:09 2026 +0530
+
+    Implement solution for LeetCode 2977 Minimum Cost to Convert String II
+
+[33mcommit eb8cfd46e27e1c9e955f13ecaae2b2a3131a168e[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Thu Jan 29 17:34:31 2026 +0530
+
+    docs: Add comment indicating solution revisit date.
+
+[33mcommit 9b520727581989e29f453cdf635d20fd148c2e60[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Wed Jan 28 10:14:46 2026 +0530
+
+    feat: add solution for LeetCode 3651 Minimum Cost Path with Teleportations
+
+[33mcommit 48c2d5a1d7fc611e00de4e332efe38c2e8720fb6[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Tue Jan 27 22:17:38 2026 +0530
+
+    Solve 3650. Minimum Cost Path with Edge Reversals
+
+[33mcommit 1dfe18665f8249dc96af5dc540d1efea9685ddf1[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Mon Jan 26 12:00:00 2026 +0530
+
+    Solve 1200. Minimum Absolute Difference
+
+[33mcommit 4a1dc3da02459bbae4f22ef33b70d7f5f3d49957[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sun Jan 25 17:57:29 2026 +0530
+
+    feat: Add solution for LeetCode 1984 Minimum Difference Between Highest and Lowest of K Scores.
+
+[33mcommit afacc92182d287d30632ea92a5e25ce282336e26[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sat Jan 24 10:07:17 2026 +0530
+
+    Add solution for LeetCode 1877: Minimize Maximum Pair Sum in Array
+
+[33mcommit 4e35728f6c2d47834dcf6476b0ee1dd8745b104f[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Fri Jan 23 19:48:20 2026 +0530
+
+    feat: Implement JS solution for Minimum Pair Removal II (Problem 3510)
+
+[33mcommit 9921f84056176710cd7e35102d9c92839dd31a98[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Thu Jan 22 22:41:48 2026 +0530
+
+    Add solution for LeetCode 3507: Minimum Pair Removal to Sort Array I
+
+[33mcommit 21d454d882e485e93f799960d711996182fbea40[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Wed Jan 21 12:17:53 2026 +0530
+
+    feat: add solution for LeetCode 3315 Construct the Minimum Bitwise Array II.
+
+[33mcommit 72e5e1ac81d7772e90c51578540bbdc21eb93b2b[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Tue Jan 20 19:57:02 2026 +0530
+
+    feat: Add solution for LeetCode 3314 Construct the Minimum Bitwise Array I.
+
+[33mcommit 30799aab7b935367004be41f4264433c154d53c3[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Mon Jan 19 13:03:40 2026 +0530
+
+    feat: Implement LeetCode 1292 Maximum Side Length of a Square with Sum Less than or Equal to Threshold using 2D prefix sums and binary search.
+
+[33mcommit 7a496f4922c9c5785e498ef11aec41281a9c38c4[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sun Jan 18 12:56:40 2026 +0530
+
+    feat: add JavaScript solution for LeetCode problem 1895 Largest Magic Square.
+
+[33mcommit 2a00bcf1ad3ee27e6e71fd976298c64221a64d2f[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sat Jan 17 10:42:04 2026 +0530
+
+    feat: add solution for LeetCode 3047 Find the Largest Area of Square Inside Two Rectangles
+
+[33mcommit ba275365fbdd2a729250d97c7b9956d0f988e7d6[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Fri Jan 16 23:09:07 2026 +0530
+
+    feat: Add solution for LeetCode 2975 Maximum Square Area by Removing Fences From a Field.
+
+[33mcommit 756128d3fa7ff84e52a5b37b49a45e242877e757[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Thu Jan 15 21:42:19 2026 +0530
+
+    feat(2943): add solution for Maximize Area of Square Hole in Grid
+
+[33mcommit d89a640ba09600e76a47f4db56e2b95660cbaa15[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Wed Jan 14 23:05:43 2026 +0530
+
+    feat: Implement LeetCode 3454 Separate Squares II solution using a segment tree.
+
+[33mcommit 098e68c67fb6eefc14a48bf6b31795ec24032017[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Tue Jan 13 23:54:01 2026 +0530
+
+    Fix syntax in Separate Squares I solution
+
+[33mcommit 30cd2719c96aeabeecb8597081f5804c5d9cb6ec[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Mon Jan 12 10:07:39 2026 +0530
+
+    Add solution for LeetCode 1266: Minimum Time Visiting All Points
+
+[33mcommit 9a7615ca660ec3cbefc275b884293190ac186e6a[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sun Jan 11 13:19:55 2026 +0530
+
+    feat: Add Maximal Rectangle solution and project configuration
+    
+    - Added solution for LeetCode 85: Maximal Rectangle using optimized histogram approach.
+    
+    - Added .editorconfig to enforce 4-space indentation and coding style consistency across the project.
+
+[33mcommit c7ad8816c00578a5986c4245514d2f52531b45d0[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sat Jan 10 08:29:01 2026 +0530
+
+    feat: add solution for LeetCode 712 - Minimum ASCII Delete Sum for Two Strings
+
+[33mcommit 1d9508678125afbacec5eba539ed6fa400ff1920[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Fri Jan 9 10:24:51 2026 +0530
+
+    Add solution for LeetCode 865: Smallest Subtree with all the Deepest Nodes
+
+[33mcommit 5ad554574b98d987dbc0b7ece6caeb4f5f3aeceb[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Thu Jan 8 13:28:53 2026 +0530
+
+    feat: add solution for LeetCode 1458 Max Dot Product of Two Subsequences
+
+[33mcommit 9920c91c7a7edc5bb28dabfb4338adbdf6f8fccd[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Wed Jan 7 09:42:17 2026 +0530
+
+    feat: add solution for Maximum Product of Splitted Binary Tree
+
+[33mcommit d1e8fbd714115a5df24f2bacbbd29ea9e433fe61[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Tue Jan 6 19:18:13 2026 +0530
+
+    feat: Add solution for LeetCode 1161 Maximum Level Sum of a Binary Tree.
+
+[33mcommit 6cda0ecb977698e497f3f3d708f71a0585203412[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Mon Jan 5 23:06:17 2026 +0530
+
+    refactor: replace maxMatrixSum implementation with a new, single-pass solution
+
+[33mcommit 4f7c509b78af61117de6ed5e483c759039ba59e7[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Mon Jan 5 12:00:00 2026 +0530
+
+    feat: maintenance commit for Jan 5
+
+[33mcommit a90f03010f030c83794273f117e091243673b6bb[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Thu Jan 1 12:00:00 2026 +0530
+
+    feat: backfill missing streak for Jan 1
+
+[33mcommit 5fd121cdd9bdf63bb8c5d60dc81e69570e025197[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sun Jan 4 19:04:26 2026 +0530
+
+    feat: add solution for LeetCode 1390 Four Divisors
+
+[33mcommit e8388646b6a296065f43a8e77fdb52b74f9ebd9d[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sat Jan 3 12:00:00 2026 +0530
+
+    feat: add solution for LeetCode 1411 Number of Ways to Paint N x 3 Grid
+
+[33mcommit 426feb696b7c8979b9b9011b55a541eba4dd5de1[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Fri Jan 2 10:57:29 2026 +0530
+
+    feat: add solution for N-Repeated Element in Size 2N Array
+
+[33mcommit 0ab333617d383a36d9e09b5c2f2b4fc28117f5ed[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Wed Dec 31 20:41:52 2025 +0530
+
+    feat: add solution for 1970 Last Day Where You Can Still Cross
+
+[33mcommit 9669dd33752cee23b1d6e391029ac11ce6fbcc5a[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Tue Dec 30 22:20:33 2025 +0530
+
+    refactor: reimplement `numMagicSquaresInside` with a new solution.
+
+[33mcommit dca03a1a22c45dffc9faf814de2e5d494fd6c5d4[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Mon Dec 29 21:18:27 2025 +0530
+
+    feat: add solution for 756 Pyramid Transition Matrix
+
+[33mcommit 934b49319a3ed12ba6a7d33a298bb1003b0a9091[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sun Dec 28 08:08:33 2025 +0530
+
+    feat: add solution for LeetCode 1351 Count Negative Numbers in a Sorted Matrix
+
+[33mcommit 009f0b2cf6c9eccadc892b85303ff749552b7aac[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sat Dec 27 10:47:07 2025 +0530
+
+    feat: add a second solution for the Meeting Rooms III problem
+
+[33mcommit b376c5e6314b5941c97f4f3d9fea0e4c4d4d2215[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Fri Dec 26 21:59:28 2025 +0530
+
+    feat: Add JavaScript solution for problem 2483 Minimum Penalty for a Shop.
+
+[33mcommit f033057e92d49739a157374b33bb532e8f097984[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Thu Dec 25 15:33:34 2025 +0530
+
+    Add 3075_Maximize_Happiness_of_Selected_Children.js
+
+[33mcommit 77dd5c87eed1a41cd4d36d1aa44206021455a2de[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Wed Dec 24 23:31:31 2025 +0530
+
+    Add solution for LeetCode 3074 Apple Redistribution into Boxes
+
+[33mcommit f7871c79f63ca84caf6f4a4be7b2af0c7956d83a[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Tue Dec 23 22:22:11 2025 +0530
+
+    feat: Add 2054. Two Best Non Overlapping Events LC problem Solution
+
+[33mcommit 4a2ffdde68abdb9c57ce700fde5b0bcb7477ffa2[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Mon Dec 22 23:37:19 2025 +0530
+
+    feat: Add LC Problem 960 Delete Columns to Make Sorted III
+
+[33mcommit 8773486534cd8a85d6470a84756b2f79b06b2ec6[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sun Dec 21 11:01:04 2025 +0530
+
+    feat: add JavaScript solution for LeetCode 955 Delete Columns to Make Sorted II.
+
+[33mcommit ace087b255033b689d9596edc2f36c7555fc0c15[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sat Dec 20 21:02:15 2025 +0530
+
+    feat: add solution for LeetCode 944 Delete Columns to Make Sorted
+
+[33mcommit f2cf6b8fb3435bb6c74f02a1676b108fb7f0d2bb[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Fri Dec 19 21:23:35 2025 +0530
+
+    feat: add JavaScript solution for 2092 Find All People With Secret
+
+[33mcommit f596963005f174d877f2743b1914104c79607959[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Thu Dec 18 23:43:40 2025 +0530
+
+    feat: add solution for Best Time to Buy and Sell Stock using Strategy
+
+[33mcommit cac1f37d7b7a426841292885f289a4852dd73260[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Thu Dec 18 23:49:00 2025 +0530
+
+    Add 3562_Maximum_Profit_from_Trading_Stocks_with_Discounts.js
+
+[33mcommit 1da526d63ffaae26c5ee3f24e52533a39b8d09d4[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Wed Dec 17 18:47:41 2025 +0530
+
+    feat: add solution for Best Time to Buy and Sell Stock V
+
+[33mcommit ce1547da3aa6c6976e8d9547afa9ca20363daf32[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Mon Dec 15 22:00:51 2025 +0530
+
+    feat: Add solution for LeetCode 2110 Number of Smooth Descent Periods of a Stock
+
+[33mcommit 83d64aa937ef73ea339afac5698379a3e41baf53[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sun Dec 14 23:27:55 2025 +0530
+
+    feat: Add solution for LeetCode 2147 Number of Ways to Divide a Long Corridor
+
+[33mcommit 2cc415cb635bc35ce42d10a1e4a7c89a440d60da[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sat Dec 13 22:46:42 2025 +0530
+
+    feat: Add `validateCoupons` function to filter and sort coupon codes based on validation rules.
+
+[33mcommit 3e4839cea6de9dc5532c45c08218c287e6de0956[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Fri Dec 12 23:06:12 2025 +0530
+
+    feat: add solution for LeetCode 292 Nim Game
+
+[33mcommit 147217ba1e21b18c4b74e5364d1a93e99344e9c4[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Thu Dec 11 21:05:04 2025 +0530
+
+    feat: add solution for LeetCode 3531 Count Covered Buildings
+
+[33mcommit 03269e8f7e9f3cda744d9bd098e6ed23ad4b543c[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Wed Dec 10 22:51:50 2025 +0530
+
+    feat: Add 3577. Count the Number of Computer Unlocking Permutations function
+
+[33mcommit 6cd1df5cffd3545e1494dbf7985eb4b7af048ad0[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Tue Dec 9 22:42:52 2025 +0530
+
+    feat: Add 3583. Count Special Triplets function
+
+[33mcommit 14b98478e3bb64acf095463bacb05442c6589838[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Mon Dec 8 18:04:06 2025 +0530
+
+    feat: Add 1925. Count Square Sum Triples function
+
+[33mcommit 4365fa37608f5b09db1cc6408a1d74143ee3d891[m
+Author: Subhadip Hensh <subhadiphensh31102000@gmail.com>
+Date:   Sun Dec 7 22:56:19 2025 +0530
+
+    feat: Add 1523. Count Odd Numbers in an Interval Range
+
+[33mcommit 3bbbc70034e27bf581aab33565e3137cf567bcd2[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Dec 6 22:35:33 2025 +0530
+
+    feat: Implement countPartitions function to calculate partition counts with max-min difference constraint
+
+[33mcommit fd0ad82ee9abe578dafb7586e1f7db8283a3f889[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Dec 5 23:28:57 2025 +0530
+
+    feat: Refactor countPartitions function and add alternative solution
+
+[33mcommit f9a9bfe004346799371ceed4c38f7303484a6bee[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Dec 4 22:20:09 2025 +0530
+
+    feat: Add 2211. Count Collisions on a Road
+
+[33mcommit a27da1997a05f51b39e1436754d633bf0b5ba90e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Dec 3 21:36:49 2025 +0530
+
+    feat: Add 3625. Count Number of Trapezoids II
+
+[33mcommit 3f35355ebf3c826b74f6df66b6f7db519239a6be[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Dec 2 18:43:36 2025 +0530
+
+    feat: Add 3623. Count Number of Trapezoids
+
+[33mcommit 754fdfd11fb25966e86bb40b3bab7790e545b48b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Nov 28 10:00:00 2025 +0500
+
+    feat: Add 455. Assign Cookies
+
+[33mcommit 71d806579058a579162b51fcaca8c71f0e13d9d3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Nov 7 10:00:00 2025 +0500
+
+    feat: Add 414. Third Maximum Number
+
+[33mcommit 1547ef92800f89852ded0f34d44862d744fc63a6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Nov 6 10:00:00 2025 +0500
+
+    feat: Add 349. Intersection of Two Arrays
+
+[33mcommit 8e8c37c1e66abd7456145dd5e26f4886a71fa348[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Nov 5 10:00:00 2025 +0500
+
+    feat: Add 303. Range Sum Query-Immutable
+
+[33mcommit fb6e5e348c918d8263547c487949a46ff31b25ea[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Dec 1 22:07:57 2025 +0530
+
+    feat: implement maxRunTime function to calculate the maximum running time of N computers
+
+[33mcommit 2bcceee4d3d1a875c056bb5349bbad39d87df7e5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Nov 30 18:39:33 2025 +0530
+
+    refactor: improve formatting and add second solution for minSubarray function
+
+[33mcommit 921c068797c8382fcab0fb2fd4ea273a50964ab2[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Nov 29 18:01:01 2025 +0530
+
+    feat: implement minOperations function to calculate the minimum operations to make array sum divisible by k
+
+[33mcommit d626f2b29e9ea7a7dffb63abea28fe57428d473c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Nov 27 19:47:25 2025 +0530
+
+    feat: implement maxSubarraySum function to calculate the maximum subarray sum with length divisible by k
+
+[33mcommit 9e4709883947504a2999ef699cc9e6d20f4956a3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Nov 26 22:12:32 2025 +0530
+
+    feat: implement numberOfPaths function to calculate paths in a matrix whose sum is divisible by k
+
+[33mcommit 84813a7585f116b40aecaff61f23e62ca6268f23[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Nov 25 18:49:07 2025 +0530
+
+    feat: implement smallestRepunitDivByK function to find the smallest integer divisible by k
+
+[33mcommit b7c4d0b60dd1de50bab906f85d76436faa6eee70[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Nov 24 19:04:12 2025 +0530
+
+    feat: implement prefixesDivBy5 function to determine binary prefixes divisible by five
+
+[33mcommit 9d8d40b2f7c26c60b30b430509fc0dbbe7733d8c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Nov 23 19:59:42 2025 +0530
+
+    feat: implement maxSumDivThree function to calculate the maximum sum divisible by three
+
+[33mcommit 3c817a5c8bdc2b88093c25684072ff861c219df2[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Nov 22 12:46:47 2025 +0530
+
+    feat: implement minimumOperations function to count operations for divisibility by three
+
+[33mcommit 4c6b5fa78dfab57efa612703ab434fb69f8cdc23[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Nov 21 20:08:26 2025 +0530
+
+    feat: implement countPalindromicSubsequence function to count unique length-3 palindromic subsequences
+
+[33mcommit 49aadda84fd7eee0f0d4098b8fda9a7c8a2a3374[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Nov 20 22:17:29 2025 +0530
+
+    feat: implement intersectionSizeTwo function to calculate the minimum size of set intersections
+
+[33mcommit af7619d75d331387b4003bb92086235659ed83d1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Nov 19 13:29:12 2025 +0530
+
+    feat: implement findFinalValue function to calculate the final value by multiplying found values by two
+
+[33mcommit 637120aff241c13eff170eda96d0ad9b186cb7c9[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Nov 18 12:08:20 2025 +0530
+
+    feat: implement isOneBitCharacter function to determine if the last character is a one-bit character
+
+[33mcommit ce8140aa89540dd94a515ffd9dc7b129bdfa7b3a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Nov 16 23:00:00 2025 +0530
+
+    Add solution for 1513: Number of Substrings With Only 1s
+
+[33mcommit d689ce5fce501218d46fcc6a1d7e0c108c7d89dd[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Nov 17 11:40:13 2025 +0530
+
+    feat: implement kLengthApart function to check if all 1's are at least k places away
+
+[33mcommit b4fb1812e5761da105522412711116313106f142[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Nov 15 18:32:07 2025 +0530
+
+    feat: implement numberOfSubstrings function to count dominant substrings in a binary string
+
+[33mcommit b925739e0acfcd2f9cb597c1302e968882c8b796[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Nov 14 22:49:41 2025 +0530
+
+    feat: implement rangeAddQueries function to perform range addition on a matrix
+
+[33mcommit ec857eea1e97005401984a7e22dbb79735ca9866[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Nov 13 23:07:57 2025 +0530
+
+    feat: implement maxOperations function to calculate the maximum number of operations to move ones to the end of a string
+
+[33mcommit e583b723892b3080c7fb2b428ee3bab7f40ce8c6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Nov 12 18:44:27 2025 +0530
+
+    feat: implement minOperations function to calculate minimum operations to make all array elements equal to 1
+
+[33mcommit 01132aa3bb70e4b435d6ff7d8ccae4f7e0647776[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Nov 11 12:24:45 2025 +0530
+
+    feat: implement findMaxForm function to calculate the maximum number of strings that can be formed with given zeros and ones
+
+[33mcommit c17ef52b5d507274ede75e61c8a613a5fb328ff1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Nov 10 18:27:25 2025 +0530
+
+    feat: implement minOperations function to calculate minimum operations to convert all elements to zero
+
+[33mcommit 1f7afa48fcc51ca4fdbbbee97fc54e48c1cbce0f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Nov 9 12:11:20 2025 +0530
+
+    feat: implement countOperations function to calculate the number of operations to make two integers zero
+
+[33mcommit 6c94818a8b6f6c0a3cfe129fce7fffded509c58f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Nov 8 11:28:23 2025 +0530
+
+    feat: implement minimumOneBitOperations function to calculate minimum one-bit operations to make integers zero
+
+[33mcommit b2787028010fd2432a89c8112578f81820ceda07[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Nov 4 21:46:53 2025 +0530
+
+    feat: implement findXSum function to calculate x-sum of all k-long subarrays
+
+[33mcommit e0a04438ec5b1e22e6f0893052c9f3e182fa4bee[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Nov 3 18:05:53 2025 +0530
+
+    feat: implement minCost function to calculate minimum cost to make rope colorful
+
+[33mcommit 03473b5d5e8ae0679f427d0d79a0834a357f9da1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Nov 2 10:08:53 2025 +0530
+
+    refactor: improve formatting and structure of countUnguarded function
+
+[33mcommit aebf26668c477094ffd4c96e499d39c45612883d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Nov 1 23:34:48 2025 +0530
+
+    refactor: clean up whitespace and improve formatting in modifiedList function
+
+[33mcommit 027f652d2ca6fc7f29bca561fc18c210096e8385[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Oct 31 22:20:44 2025 +0530
+
+    feat: add getSneakyNumbers function to identify the first two duplicate numbers in an array
+
+[33mcommit 33d27ba33b1bbc51b6fd419fd3925c9c9f386487[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Oct 30 19:11:26 2025 +0530
+
+    feat: implement minNumberOperations function to calculate minimum number of operations to form target array
+
+[33mcommit de7e58da33b7efc14c45e0b8471018f58375db16[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Oct 29 21:28:17 2025 +0530
+
+    feat: implement smallestNumber function to find the smallest number with all set bits greater than or equal to n
+
+[33mcommit 3d91a19eb6f78798c5e4d45e9ad9d72f8ab37727[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Oct 27 21:00:00 2025 +0530
+
+    Add solution for Number of Laser Beams in a Bank
+
+[33mcommit 5ee5af35db17ccaa4332117e0539f68cd43f6567[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Oct 28 20:21:33 2025 +0530
+
+    feat: implement countValidSelections function to evaluate valid selections of zero elements
+
+[33mcommit 8e5c35c4f0e91d9c33323dcf7a62ff390a30ee4f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Oct 26 10:20:35 2025 +0530
+
+    feat: add implementation for Simple Bank System
+
+[33mcommit 451c95118720d9fadb8e6ac7f9edaa7092fc206c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Oct 25 21:00:00 2025 +0530
+
+    Add solution for 1716. Calculate Money in Leetcode Bank
+
+[33mcommit b961cfe7f41e86c35e5378e628f75e51b6d61bda[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Oct 24 10:47:02 2025 +0530
+
+    feat: add solution for LeetCode 2048, Next Greater Numerically Balanced Number
+
+[33mcommit f0b3aeda1889e19131f9fd7cf68248e3dc9812ee[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Oct 23 19:28:35 2025 +0530
+
+    feat: add solution for LeetCode 3461, Check If Digits Are Equal in String After Operations I
+
+[33mcommit 4844c02c8e096bf57bc5a752eac40450a4b1f23f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Oct 22 21:26:39 2025 +0530
+
+    feat: add solution for Maximum Frequency of an Element After Performing Operations II
+
+[33mcommit 62618726089b877f5c109e48faa8b560233691f0[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Oct 21 09:51:53 2025 +0530
+
+    feat: Add solution for LeetCode 3346, Maximum Frequency of an Element After Performing Operations
+
+[33mcommit 5abcc08e21e6f9adf73e146832740dd3a52c5885[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Oct 20 22:01:57 2025 +0530
+
+    feat: Add solution for LeetCode 2011, Final Value of Variable After Performing Operations
+
+[33mcommit f37eda85bbd71c3e714a997d17e0c01373bd15e8[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Oct 19 21:30:37 2025 +0530
+
+    Add solution for 1625_Lexicographically_Smallest_String_After_Applying_Operations
+
+[33mcommit 1ce4b2a6c40614dd3578cb2ff93f477169cba6ef[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Oct 18 22:46:34 2025 +0530
+
+    Add solution for 3397_Maximum_Number_of_Distinct_Elements_After_Operations
+
+[33mcommit 4451c73d35a2d65fa49652679c3a7068197e81bc[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Oct 17 22:39:40 2025 +0530
+
+    Add solution for 3003_Maximize_the_Number_of_Partitions_After_Operations
+
+[33mcommit 819ce390b698dbb91677338c479924c9744f307b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Oct 16 06:54:07 2025 +0530
+
+    Add solution for 2598_Smallest_Missing_Non_negative_Integer_After_Operations
+
+[33mcommit e9fbef586d7b2ae9226d59ab503070b7906b7d59[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Oct 15 06:41:29 2025 +0530
+
+    Add solution for 3350_Adjacent_Increasing_Subarrays_Detection_II
+
+[33mcommit bf02361882c944a1724964a36fed181f9436b9af[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Oct 14 07:03:26 2025 +0530
+
+    Add solution for 3349_Adjacent_Increasing_Subarrays_Detection_I
+
+[33mcommit 087a5d2c3667443eebf54f7610efc3d338521f88[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Oct 13 20:36:13 2025 +0530
+
+    Add solution for 2273_Find_Resultant_Array_After_Removing_Anagrams
+
+[33mcommit 50dc07c01f4578ffda02e107c3a28b69887896b6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Oct 12 13:10:55 2025 +0530
+
+    Add solution for 3539_Find_Sum_of_Array_Product_of_Magical_Sequences
+
+[33mcommit 87df51103ad71fcdbf3f89617959a83fec254ebc[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Oct 11 18:28:29 2025 +0530
+
+    Add solution for 3186_Maximum_Total_Damage_With_Spell_Casting
+
+[33mcommit d84e004ee5c2a2556d1b1075eb22acccfc6a887f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Oct 10 23:07:21 2025 +0530
+
+    Add solution for 3147_Taking_Maximum_Energy_From_the_Mystic_Dungeon
+
+[33mcommit aafbbff435d1fb5b6c2982b35f2a6389e40ee440[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Oct 9 22:51:55 2025 +0530
+
+    Add solution for 3494_Find_the_Minimum_Amount_of_Time_to_Brew_Potions
+
+[33mcommit 39c8b0865014b6fbf3b8cb8737c697d7efc5b461[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Oct 8 00:00:00 2025 +0530
+
+    Solve 2300_Successful_Pairs_of_Spells_and_Potions.js
+
+[33mcommit 935c2c1d0e5077f6e1e07a6d0ec7391f87865639[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Oct 7 00:00:00 2025 +0530
+
+    Solve 1488_Avoid_Flood_in_The_City.js
+
+[33mcommit 758eb4843c7d031ba906f7729767c629949f3be0[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Oct 6 00:00:00 2025 +0530
+
+    Solve 778_Swim_in_Rising_Water.js
+
+[33mcommit 66ff3e2d319e0591b0d9b9d76370f33e5c389b83[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Oct 5 00:00:00 2025 +0530
+
+    Solve 417_Pacific_Atlantic_Water_Flow.js
+
+[33mcommit dd85ea8a8cb20c85e970aaf6d8e33fb8e522c53e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Oct 4 00:00:00 2025 +0530
+
+    Solve 11_Container_With_Most_Water.js
+
+[33mcommit fa558b79d95a8ee85aa27e6ec8b265eda8dd5883[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Oct 3 00:00:00 2025 +0530
+
+    Solve 407_Trapping_Rain_Water_II.js
+
+[33mcommit 2dff11b821731fbdd6fb2fe70c6a2947bfcc5e0e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Oct 2 00:00:00 2025 +0530
+
+    Solve 3100_Water_Bottles_II.js
+
+[33mcommit 9d8bbcf278811de3df2fde42a3ab0fe562101e78[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Oct 1 00:00:00 2025 +0530
+
+    Solve 1518_Water_Bottles.js
+
+[33mcommit bade5ecbcdce89b2584d75db3380abd36570abf3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Sep 30 00:00:00 2025 +0530
+
+    Solve 2221_Find_Triangular_Sum_of_an_Array.js
+
+[33mcommit 51bfb04d35563ffedcb1dc12f394d2e82dd87d15[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Sep 29 00:00:00 2025 +0530
+
+    Solve 1039_Minimum_Score_Triangulation_of_Polygon.js
+
+[33mcommit b9cc769956160e8668f077b3bda307f04bebb2cb[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Sep 28 00:00:00 2025 +0530
+
+    Solve 976_Largest_Perimeter_Triangle.js
+
+[33mcommit 1085e6a77c1dabb57f530da6220aa02a75ce6cc1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Sep 27 00:00:00 2025 +0530
+
+    Solve 812_Largest_Triangle_Area.js
+
+[33mcommit 8052f0791e072161310ec30e31a98ff3273aac60[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Sep 26 00:00:00 2025 +0530
+
+    Solve 611_Valid_Triangle_Number.js
+
+[33mcommit ceddb432c30dbf2985c02e47cb52c6268057ab9f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Sep 25 00:00:00 2025 +0530
+
+    Solve 120_Triangle.js
+
+[33mcommit 52465fa93c7bcf1ab6399897fbe0ad341d12a603[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Sep 24 00:00:00 2025 +0530
+
+    Solve 166_Fraction_to_Recurring_Decimal.js
+
+[33mcommit 013cafe076d9802d7f41bd6450ff9cd79177d51b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Sep 23 00:00:00 2025 +0530
+
+    Solve 165_Compare_Version_Numbers.js
+
+[33mcommit 96b10292026758eeac0c83c4861a043a51d6e948[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Sep 22 00:00:00 2025 +0530
+
+    Solve 3005_Count_Elements_With_Maximum_Frequency.js
+
+[33mcommit e69ba381655b877d0bcd73000578f56ef6831df8[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Sep 21 00:00:00 2025 +0530
+
+    Solve 1912_Design_Movie_Rental_System.js
+
+[33mcommit 91ab57a3e17dff15a92cfcfae202aacb4ed20fd3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Sep 20 00:00:00 2025 +0530
+
+    Solve 3508_Implement_Router.js
+
+[33mcommit 62f0f20d8660b689f153b3bbd37cff755563dfb7[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Sep 19 00:00:00 2025 +0530
+
+    Solve 3484_Design_Spreadsheet.js
+
+[33mcommit 3f3833b1caa1410969ffe10a98b42140c39976b0[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Sep 18 00:00:00 2025 +0530
+
+    Solve 3408_Design_Task_Manager.js
+
+[33mcommit 3f43f3d16cdaf836a5e5b9182bd39f3d1e1494fe[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Sep 17 00:00:00 2025 +0530
+
+    Solve 2353_Design_a_Food_Rating_System.js
+
+[33mcommit 0316beebe34784cffc195dfe18ef72ad5f6549a7[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Sep 16 00:00:00 2025 +0530
+
+    Solve 2197_Replace_Non_Coprime_Numbers_in_Array.js
+
+[33mcommit 07c3aad6c450df5d64e9f6c2680a0079d81a6778[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Sep 15 00:00:00 2025 +0530
+
+    Solve 1935_Maximum_Number_of_Words_You_Can_Type.js
+
+[33mcommit 21192ba94ca189d708dd92fa9059739e30f5947c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Sep 14 00:00:00 2025 +0530
+
+    Solve 966_Vowel_Spellchecker.js
+
+[33mcommit e087280f322c751234bba85fcbf4e1d2703beb36[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Sep 13 19:00:00 2025 +0530
+
+    Add solution for 3541 Find Most Frequent Vowel and Consonant
+
+[33mcommit edbc6d36087dc68c0113b31cca334575438c5ac9[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Sep 12 19:05:39 2025 +0530
+
+    feat: add solution for LeetCode 3227 - Vowels Game in a String
+
+[33mcommit a1d91728632f4c4fd6a13af3194e8fb1806b913f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Sep 11 09:35:34 2025 +0530
+
+    feat: add solution for LeetCode 2785 - Sort Vowels in a String
+
+[33mcommit ced3de80d7d165427d29017a850ee63f86c20fb5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Sep 10 19:46:18 2025 +0530
+
+    feat: add solution for LeetCode 1733 - Minimum Number of People to Teach
+
+[33mcommit 32305b8e9c6a7c331b0d6c4b3d57cf9b2b1e15aa[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Sep 9 22:44:27 2025 +0530
+
+    feat: add solution for LeetCode 2327 - Number of People Aware of a Secret
+
+[33mcommit c7f1b4f5f783c54c5db6cc98239520024ca9276c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Sep 5 10:00:00 2025 +0530
+
+    Add 2749_Minimum_Operations_to_Make_the_Integer_Zero.js
+
+[33mcommit 71b20740db245e0a3501cdd4dd2c0bb34baa5df9[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Sep 6 10:00:00 2025 +0530
+
+    Add 3495_Minimum_Operations_to_Make_Array_Elements_Zero.js
+
+[33mcommit 9e8fc021dd77a54c5093c721c49ddd8e41ba3989[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Sep 7 10:00:00 2025 +0530
+
+    Add 1304_Find_N_Unique_Integers_Sum_up_to_Zero.js
+
+[33mcommit 175ff6019626e73102935eca3564c29b3a1a5091[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Sep 8 22:41:18 2025 +0530
+
+    feat: add solution for LeetCode 1317 - Convert Integer to the Sum of Two No-Zero Integers
+
+[33mcommit 5610ac67af4be49c750ba7e2edc496819e200f66[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Sep 4 12:00:00 2025 +0530
+
+    Add solution for 3516 Find Closest Person
+
+[33mcommit e9eb236aceac3b165d7355dfb5f461e63422f82f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Sep 3 22:36:26 2025 +0530
+
+    feat: add solution for LeetCode 3027 - Find the Number of Ways to Place People II
+
+[33mcommit 1a39e3cda38b4bc91bd7989153c6e47cc0a01248[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Sep 2 21:23:53 2025 +0530
+
+    feat: add solution for LeetCode 3025 - Find the Number of Ways to Place People I
+
+[33mcommit 2df8b5f65019b5789feb48ee80a4dfd486df39fa[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Sep 1 09:23:30 2025 +0530
+
+    feat: add alternative solution for Maximum Average Pass Ratio using PriorityQueue
+
+[33mcommit 31adac73915c223ea794e24bf50b4ede0c0a6fb6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Aug 31 08:15:25 2025 +0530
+
+    feat: add optimized solution for Sudoku Solver
+
+[33mcommit 729a8968a695ba70260dddd049fef466b889ef18[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Aug 30 13:29:16 2025 +0530
+
+    feat: add solution for LeetCode 36 - Valid Sudoku
+
+[33mcommit 2df70cffafdb135d8adbda4c63adb3f9ca6984e1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Aug 29 23:00:21 2025 +0530
+
+    feat: add solution for LeetCode 3021 - Alice and Bob Playing Flower Game
+
+[33mcommit e2a6eccb252428e53231cc9d29c5b9416c0c081f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Aug 28 22:01:45 2025 +0530
+
+    feat: add solution for LeetCode 3446 - Sort Matrix by Diagonals
+
+[33mcommit 5a8fd289c711ba8645db620bc15c3529070736fd[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Aug 27 20:51:36 2025 +0530
+
+    feat: add solution for LeetCode 3459 - Length of Longest V Shaped Diagonal Segment
+
+[33mcommit e6ae4576624b8216f3014c7557f3b3a8e76a227d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Aug 26 19:00:00 2025 +0530
+
+    Added solution for 3000_Maximum_Area_of_Longest_Diagonal_Rectangle
+
+[33mcommit 3b9944c56a1ac7ad91da9b95ae3479e34b2484ce[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Aug 25 21:09:17 2025 +0530
+
+    feat: add solution for LeetCode 498 - Diagonal Traverse
+
+[33mcommit d865f9423cb5b6a92f4044de1cb205af10d178d3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Aug 24 19:49:10 2025 +0530
+
+    feat: implement solution for LeetCode 1493 - Longest Subarray of 1s After Deleting One Element
+
+[33mcommit 18abd3c6d62b538234676731477d65cb91a06cbf[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Aug 23 22:24:29 2025 +0530
+
+    feat: add solution for LeetCode 3197 - Find the Minimum Area to Cover All Ones II
+
+[33mcommit 6354ed8791f9e014932d2e6ab07509f52af0aa00[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Aug 22 19:32:08 2025 +0530
+
+    feat: add solution for LeetCode 3195 - Find the Minimum Area to Cover All Ones
+
+[33mcommit cce2938aa65a5d684fb519b40033d4a7e2765eba[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Aug 21 09:53:22 2025 +0530
+
+    Add solution for 1504_Count_Submatrices_With_All_Ones
+
+[33mcommit b764904e10f6d371456412ac5c2a05b509aefaa7[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Aug 20 23:46:09 2025 +0530
+
+    style: format code for consistency in countSquares function
+
+[33mcommit a95b05a9808ac29620f8da5c6b93a51cb144dead[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Aug 19 21:12:26 2025 +0530
+
+    feat: add solution for LeetCode 2348 - Number of Zero-Filled Subarrays
+
+[33mcommit c170b726dcecf7c8e3f79f83c8dfcccc9523e17c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Aug 18 08:51:37 2025 +0530
+
+    feat: add solution for LeetCode 679 - 24 Game
+
+[33mcommit a9e69476516451f7534ee4615b6ba42d477e8a10[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Aug 17 21:40:10 2025 +0530
+
+    feat: add solution for LeetCode 837 - New 21 Game
+
+[33mcommit f61745f74b422849166a61bff3a9b352da33eeb6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Aug 16 21:21:09 2025 +0530
+
+    feat: implement solution for LeetCode 1323 - Maximum 69 Number
+
+[33mcommit 31a7817524b5a35b57399e6e2ff3634027122e5d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Aug 15 22:51:45 2025 +0530
+
+    feat: add optimized solution for LeetCode 342 - Power of Four
+
+[33mcommit 9a84093544f310328ac09bcbb8011940dcf5bc38[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Aug 15 22:48:39 2025 +0530
+
+    feat: add solution for LeetCode 342 - Power of Four
+
+[33mcommit b38395bc504395b6718b4578a218e8debb6c29f0[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Aug 14 19:56:25 2025 +0530
+
+    feat: implement solution for LeetCode 2264 - Largest 3 Same-Digit Number in String
+
+[33mcommit d9cade8cc5b74365ea8c484b2925e770ffb2e98d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Aug 13 06:37:49 2025 +0530
+
+    feat: add solution for LeetCode 326 - Power of Three
+
+[33mcommit 9df282546fda82acc69fd52c30337dd068ced8a3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Aug 12 22:41:46 2025 +0530
+
+    feat: add solution for LeetCode 2787 - Ways to Express an Integer as Sum of Powers
+
+[33mcommit 53a150b1a42a37712968768f55159a8f79a0cb3b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Aug 11 09:10:27 2025 +0530
+
+    feat: implement solution for LeetCode 2438 - Range Product Queries of Powers
+
+[33mcommit 177e314f4e1ed015445661834236a2fd3677b618[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Aug 10 20:58:45 2025 +0530
+
+    feat: add solution for LeetCode 869 - Reordered Power of 2
+
+[33mcommit d502232d480283d3566763dd1e49abe755b28b18[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Aug 9 11:24:49 2025 +0530
+
+    feat: add solution for LeetCode 231 - Power of Two
+
+[33mcommit 76470b022bc3a3b07db4e30bd1fd223f999f9f25[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Aug 8 21:11:25 2025 +0530
+
+    feat: add solution for LeetCode 808 - Soup Servings
+
+[33mcommit 07a0f6a91be8796b3c52a5eddb0f2f9f74a21efb[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Aug 7 20:44:31 2025 +0530
+
+    feat: implement solution for LeetCode 3363 - Maximum Number of Fruits Collected
+
+[33mcommit 9077610f1a6672f9edc6d3da156e1297109aa336[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Aug 6 22:54:05 2025 +0530
+
+    feat: add solution for LeetCode 3479 - Fruits Into Baskets III
+
+[33mcommit 290f418bc00598c94fee2205ccc7cf3dd083c7ed[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Aug 5 21:56:10 2025 +0530
+
+    feat: add solution for LeetCode 3477 - Fruits Into Baskets II
+
+[33mcommit 5e5f35020b02a3742678baa7f580f5ccb1ca39ff[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Aug 4 09:49:44 2025 +0530
+
+    feat: implement solution for LeetCode 904 - Fruit Into Baskets
+
+[33mcommit 4783558fc994070d1938bf2f186eb8fc4c893465[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Aug 3 20:24:27 2025 +0530
+
+    feat:Add Solution for LC Problem 2106.Maximum Fruits Harvested After at Most K Steps
+
+[33mcommit 82dc6c355c2565dc303be4cabcec0b0ab322915c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Aug 2 11:46:37 2025 +0530
+
+    feat: implement solution for LeetCode 2561 - Rearranging Fruits
+
+[33mcommit 594ad1ca6330c51d3718a1d66e3286aa4e0d01be[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Aug 1 19:27:42 2025 +0530
+
+    feat: implement solution for LeetCode 118 - Pascal's Triangle
+
+[33mcommit 84c64ef93606e5fc9031c211418ab1dff573e19f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jul 31 20:17:33 2025 +0530
+
+    feat: Add solution for Bitwise ORs of Subarrays problem
+
+[33mcommit b859da5eb1f38454ce8558e36e55df5f0836468a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jul 30 21:28:55 2025 +0530
+
+    style: format function definition and spacing for consistency in longestSubarray
+
+[33mcommit ff1c15f825a31942d28623e5508d5530cf119524[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jul 29 19:38:47 2025 +0530
+
+    feat: implement solution for LeetCode 2411 - Smallest Subarrays With Maximum Bitwise OR
+
+[33mcommit 7e8c9a1e17f82f535ac9af9b2f38dbc293aae29d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jul 28 06:48:17 2025 +0530
+
+    style: format function parameter for consistency in countMaxOrSubsets
+
+[33mcommit 5ea212bd0f8e03e5b73e211c605e2bc6eab86bf6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jul 27 23:45:03 2025 +0530
+
+    feat: implement solution for LeetCode 2210 - Count Hills and Valleys in an Array
+
+[33mcommit 7edd0c8ba4158441b0b7a6a48481de4afc53d1d1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jul 26 11:03:12 2025 +0530
+
+    feat: implement solution for LeetCode 3480 - Maximize Subarrays After Removing One Conflicting Pair
+
+[33mcommit 03f7edc6951b01e4db9fab92eb16f3a43de9ef71[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jul 25 20:17:42 2025 +0530
+
+    feat: implement solution for LeetCode 3487 - Maximum Unique Subarray Sum After Deletion
+
+[33mcommit 59783a09379517e6368521a0332c616179e41fac[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jul 24 20:30:00 2025 +0530
+
+    Add 2322_Minimum_Score_After_Removals_on_a_Tree solution
+
+[33mcommit 8175989615e3c9df48fdbfcde6fbec89e7a0493d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jul 23 21:27:26 2025 +0530
+
+    feat: implement solution for LeetCode 1717 - Maximum Score From Removing Substrings
+
+[33mcommit 5b4a275228b341ad1553bfb1af768709a185ad59[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jul 22 20:57:01 2025 +0530
+
+    feat: implement solution for LeetCode 1695 - Maximum Erasure Value
+
+[33mcommit 4d68c6a48663b3dd346581c9f52afbe377c3145d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jul 21 07:23:21 2025 +0530
+
+    feat : Add Solution 2 for the LC problem 1957. Delete Characters to Make Fancy String
+
+[33mcommit f0a9cf563f02bfad01216274971cb3cbc26ed810[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jul 20 10:44:53 2025 +0530
+
+    feat: implement solution for LeetCode 1948 - Delete Duplicate Folders in System
+
+[33mcommit 26b1af75312ca40788893e3190288a658fa89f9f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jul 19 23:29:13 2025 +0530
+
+    refactor: improve formatting and readability of removeSubfolders function
+
+[33mcommit 7c76e01136f54432f2319034cdd861a02c5e0f0e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jul 18 07:03:02 2025 +0530
+
+    feat: add solution for LeetCode 2163 - Minimum Difference in Sums After Removal of Elements
+
+[33mcommit 00aa4d9c29118198b97292f64c885acc8db23c93[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jul 17 21:08:13 2025 +0530
+
+    feat: add solution for LeetCode 3202 - Find the Maximum Length of Valid Subsequence II
+
+[33mcommit 5a50e41b022390dc0f3581b45ac7d5bfa7e92bb0[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jul 16 22:00:17 2025 +0530
+
+    feat: add solution for LeetCode 3201 - Find the Maximum Length of Valid Subsequence I
+
+[33mcommit 74517c9134e73eb744c4c07d3861f3cb246863a3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jul 15 06:56:54 2025 +0530
+
+    feat: add solution for LeetCode 3136 - Valid Word
+
+[33mcommit b87d01284c0a78f4c35de500f3c78f4ee383434c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jul 14 19:20:21 2025 +0530
+
+    feat: add solution for LeetCode 1290 - Convert Binary Number in a Linked List to Integer
+
+[33mcommit 16f79b97d46884b287d158b4ed387c425d746246[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jul 13 20:43:57 2025 +0530
+
+    feat: add solution for LeetCode 2410 - Maximum Matching of Players With Trainers
+
+[33mcommit 6e3135dc8eba81196f6316a0943f00bd17857f10[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jul 12 10:29:25 2025 +0530
+
+    feat: add solution for LeetCode 1900 - The Earliest and Latest Rounds Where Players Compete
+
+[33mcommit c9c27aedc1a3d7fd77b25e1a830e112263aaf228[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jul 11 22:23:36 2025 +0530
+
+    feat: add solution for LeetCode 2402 - Meeting Rooms III
+
+[33mcommit 712ca15c4ee43373e410d3ee644142dafd264116[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jul 10 18:28:03 2025 +0530
+
+    feat: add solution for LeetCode 3440 - Reschedule Meetings for Maximum Free Time II
+
+[33mcommit b38a1be12b101e4ca7bf00454043fc289bdb5840[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jul 9 19:17:49 2025 +0530
+
+    feat: Added solution for problem 3439
+
+[33mcommit f94f7f7732dd7e9ba18e2ab05d955e03a2f20a4b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jul 8 22:48:38 2025 +0530
+
+    feat: add solution for LeetCode 1751 - Maximum Number of Events That Can Be Attended II
+
+[33mcommit ce747a64213e95f0755bf560b7b92e339b4f2e5c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jul 7 09:40:54 2025 +0530
+
+    feat: add solution for LeetCode 1353 - Maximum Number of Events That Can Be Attended
+
+[33mcommit 5b0c149c99b66e758e2ce167b709e70f8b2bd361[m
+Merge: 20eade7 7444991
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jul 6 10:43:42 2025 +0530
+
+    Merge branch 'main' of https://github.com/07subhadip/Leetcode-Solutions-JavaScript
+
+[33mcommit 20eade7bf7abbb5137d358fd1ed9b74203addef2[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jul 6 10:43:31 2025 +0530
+
+    feat: implement FindSumPairs class to find pairs with a certain sum
+
+[33mcommit 7444991bcfbfc7c1e6a205ec6add213ff459a713[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jul 5 19:20:49 2025 +0530
+
+    Add solution for LeetCode 1865: Finding Pairs With a Certain Sum
+
+[33mcommit dd576ed18b95ea0665a4d88f4c939899ef04dcbc[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jul 5 19:20:49 2025 +0530
+
+    Add 1394: Find Lucky Integer in an Array
+
+[33mcommit 25541ca9c633e4cd0856d537e2f2f2d3cffbba62[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jul 4 19:55:18 2025 +0530
+
+    feat: Add 3307. Find the K-th Character in String Game II.js
+
+[33mcommit e5161eec1256f0753f6191c438e9ae70be4087d3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jul 3 22:20:32 2025 +0530
+
+    feat: implement kthCharacter function to find the k-th character in a generated string
+
+[33mcommit ca815e4f76ab2f183272c0fb1edb386d16a409d2[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jul 2 07:03:49 2025 +0530
+
+    feat: Add LeetCode 3333 - Find the Original Typed String II
+
+[33mcommit 8a676d029de7f2e26c6b307df1dd77076a142e18[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jul 1 20:16:04 2025 +0530
+
+    feat: implement possibleStringCount function to count possible original strings from typed input
+
+[33mcommit d87638183b265aa47f9ed8634395d1a812503deb[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jun 30 22:13:56 2025 +0530
+
+    feat: implement findLHS function to calculate the length of the longest harmonious subsequence
+
+[33mcommit 7b71caa2fa4ce00b1c81b1f3a19884d23967d7ce[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jun 29 22:54:34 2025 +0530
+
+    feat: add numSubseq function to calculate the number of subsequences that satisfy the given sum condition
+
+[33mcommit 830bb01e40c271e36bb571bdf839cf3536ac8cfc[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jun 28 10:24:05 2025 +0530
+
+    feat: implement maxSubsequence function to find the subsequence of length k with the largest sum
+
+[33mcommit 1b56481952ba9e48b491d19bdcf2265e5b532226[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jun 27 21:42:15 2025 +0530
+
+    feat: implement longestSubsequenceRepeatedK function to find the longest subsequence repeated k times
+
+[33mcommit 8e02e4e3e35402994c2ae2948fbe67a82675da11[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jun 26 22:29:38 2025 +0530
+
+    feat: add longestSubsequence function to find the longest binary subsequence less than or equal to k
+
+[33mcommit 9030f2bbfb8bf086bc900c157cfb3df1fd86812f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jun 25 20:47:32 2025 +0530
+
+    feat: implement kthSmallestProduct function to calculate the k-th smallest product of two sorted arrays
+
+[33mcommit f38a726dd18c76ce826f5a347aa2b69001f2b02c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jun 23 19:33:00 2025 +0530
+
+    Fix: Corrected commit date for 2081 Sum of k-Mirror Numbers
+
+[33mcommit c0fc1feb6b3e0373aca74dd6c5996a59e2d51105[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jun 24 20:11:48 2025 +0530
+
+    feat: implement findKDistantIndices function to find all indices within k distance of a specified key
+
+[33mcommit 989cf6b4aa9bc4608ed32d7a888a7b48d52f554c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jun 22 17:48:20 2025 +0530
+
+    feat: implement divideString function to split a string into groups of specified size
+
+[33mcommit 3a9073a73bd557eb1743e1e32e859344d0664042[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jun 21 20:28:08 2025 +0530
+
+    feat: add solution for LeetCode 3085 - Minimum Deletions to Make String K-Special
+
+[33mcommit 235248a85353a71eb5d036d6ce9611ccb8023376[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jun 20 18:01:30 2025 +0530
+
+    feat: implement maxDistance function to calculate maximum Manhattan distance after K changes
+
+[33mcommit a1a0aaf3627d2c9216fefdc4d984827c0c64b887[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jun 19 22:49:57 2025 +0530
+
+    feat: implement partitionArray function to partition array with maximum difference constraint
+
+[33mcommit 40abd3482c3ec1dfcc4f8943c2c5b62c9e0f7189[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jun 18 13:36:11 2025 +0530
+
+    feat: implement divideArray function to group numbers with max difference constraint
+
+[33mcommit 7426b7fec00a1e3a3ec43e04aef0588dfdf5d2ca[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jun 17 20:44:04 2025 +0530
+
+    feat: add function to count good arrays with K matching adjacent elements
+
+[33mcommit d7923f3829018e8164d319928082a49215977ec1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jun 16 11:01:39 2025 +0530
+
+    feat: implement maximumDifference function to calculate the maximum difference between increasing elements in an array
+
+[33mcommit 63bd643e648e1f9dea642b334d3cc62259a326cb[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jun 15 10:59:37 2025 +0530
+
+    feat: implement optimized solution for 1432_Max_Difference_You_Can_Get_From_Changing_an_Integer using digit replacement strategy for max-min diff
+
+[33mcommit a737f63ae80673f6e3f396b7f644bb8de05e8fb6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jun 14 22:31:38 2025 +0530
+
+    feat: add JS solution for LeetCode 2566 - Maximum Difference by Remapping a Digit
+
+[33mcommit 3937c933b45240d5dd716014cf02864deb49b4b6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jun 13 16:10:17 2025 +0530
+
+    feat: add JS solution for LeetCode 2616 - Minimize the Maximum Difference of Pairs
+
+[33mcommit 6b8cd7205af16bac458ce8ab2fb4412a321ffa2d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jun 12 21:36:04 2025 +0530
+
+    feat: implement maxAdjacentDistance function to calculate the maximum difference between adjacent elements in a circular array
+
+[33mcommit 37228cfea35295b4ac745556a9478fa49670a317[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jun 11 12:44:58 2025 +0530
+
+    feat: add maxDifference function to calculate the maximum difference between even and odd frequencies in a string
+
+[33mcommit bbc2d16ce1f0072ed6bf4965167913755e859f78[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jun 10 20:59:08 2025 +0530
+
+    feat: implement maxDifference function to calculate the difference between maximum odd and minimum even frequencies in a string
+
+[33mcommit 56848924778f1399230a6fccd24744d68727ba96[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jun 9 08:39:09 2025 +0530
+
+    feat: add solution for Leetcode 440 - Kth Smallest in Lexicographical Order
+
+[33mcommit a71c8370e33f6c9d2d64cb29917155087a732abd[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jun 8 18:21:55 2025 +0530
+
+    Fix formatting and add newline at the end of lexicalOrder function in 386_Lexicographical_Numbers.js
+
+[33mcommit 82b32185b6b1aa3c4e0ed7ed437c7f458497a939[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jun 7 19:59:20 2025 +0530
+
+    Add implementation of clearStars function to remove stars and return lexicographically minimum string
+
+[33mcommit b3669d411d1143bd37e12e9f9b7e37956cfedfcd[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jun 6 19:30:00 2025 +0530
+
+    Add solution for LeetCode 2434 in JavaScript
+
+[33mcommit 18d98ee3e1c84a90043c71cd294ab9d5b767947f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jun 5 23:03:48 2025 +0530
+
+    Add implementation of smallestEquivalentString function to find lexicographically smallest equivalent string
+
+[33mcommit 40dad849c0234c974dcce3d1ad79c35d8f2a47d2[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jun 4 11:22:27 2025 +0530
+
+    Add JavaScript solution for LeetCode problem 3403: Find the Lexicographically Largest String From the Box I
+
+[33mcommit f63e6e3525a32415c8dcc1dc0afe53c6fff0ffff[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jun 3 19:00:00 2025 +0530
+
+    Add solution for 1298_Maximum_Candies_You_Can_Get_from_Boxes.js
+
+[33mcommit 988432841bdd4f76cff7e8e5f4dbc9c11b972b60[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jun 2 19:00:00 2025 +0530
+
+    Add solution for 135_Candy.js
+
+[33mcommit b0b22b2c5c685ff2644f6ce94236679da681ae4d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jun 1 13:34:58 2025 +0530
+
+    Add implementation of distributeCandies function to calculate candy distribution
+
+[33mcommit b8ae6a467d321b27afd9ca453b67b4ec37869bfa[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat May 31 08:27:26 2025 +0530
+
+    Adds Snakes and Ladders game logic
+    
+    Implements the core algorithm to navigate a Snakes and Ladders board using breadth-first search.
+    
+    Includes functions to determine player movement and handle snakes and ladders transitions.
+    
+    Improves game logic efficiency and enhances gameplay experience.
+
+[33mcommit 51631bc5d2f5fb06da25d9f826241f79481f2842[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri May 30 23:00:00 2025 +0530
+
+    2359_Find_Closest_Node_to_Given_Two_Nodes
+
+[33mcommit 2e12a7b207349527110e3513a0611342fef5205a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu May 29 14:23:16 2025 +0530
+
+    Add implementation of maxTargetNodes function to calculate the maximum number of target nodes after connecting two trees
+
+[33mcommit 4fe969cfb923604556133a79bae4b23b867269f2[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed May 28 22:21:15 2025 +0530
+
+    Refactor maxTargetNodes function to improve code readability by adding spacing
+
+[33mcommit a42f60968bccf13234603b2613825b99c6053cb4[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed May 28 22:13:45 2025 +0530
+
+    Add implementation of maxTargetNodes function to calculate the maximum number of target nodes after connecting two trees
+
+[33mcommit c225ecf7e810de55509cb73e0286a70290b7e442[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun May 25 19:00:00 2025 +0530
+
+    2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words
+
+[33mcommit 5cebbd9c9c0073db6a7ea8835413b9f3e8cfa92b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue May 27 19:08:41 2025 +0530
+
+    Add implementation of differenceOfSums function to calculate the difference between the sum of numbers and the sum of divisible numbers
+
+[33mcommit 4e0d0e3783dbc653bcf73538345fc15682e5cbb9[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon May 26 12:29:39 2025 +0530
+
+    Add implementation of largestPathValue function to calculate the largest color value in a directed graph
+
+[33mcommit f25cfc0f7cc0cb2f27d67aea4d6168c0462c0cee[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat May 24 14:35:42 2025 +0530
+
+    Add implementation of findWordsContaining function to return indices of words containing a specified character
+
+[33mcommit fdfe1cc56a94934f2999060ebc0364e423499770[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri May 23 16:22:14 2025 +0530
+
+    Add implementation of maximumValueSum function to calculate the maximum sum based on given parameters
+
+[33mcommit cabad5db3aefd92556cd713619ce14e66bdc7602[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu May 22 22:05:19 2025 +0530
+
+    Add implementation of MyMaxPriorityQueue and maxRemoval function for efficient query processing
+
+[33mcommit 7cda813f75ba1de70004c8d1ed0d7fb19aa8f195[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed May 21 14:38:27 2025 +0530
+
+    Add implementation of setZeroes function to modify a matrix in-place by setting entire rows and columns to zero based on the presence of zeros
+
+[33mcommit c9f594556bcbc3cfdaaa53980f65f2386b5ca5de[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue May 20 13:31:43 2025 +0530
+
+    Add implementation of isZeroArray function to determine if an array can be transformed into all zeros based on given queries
+
+[33mcommit 8673c23e0953bb7097eb9faf15ff51a44914f31c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon May 19 09:24:18 2025 +0530
+
+    Add implementation of triangleType function to determine the type of triangle based on side lengths
+
+[33mcommit 0dc64d9f943a446f6bb057563c480a00433202bc[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun May 18 11:36:41 2025 +0530
+
+    Add implementation of colorTheGrid function to calculate the number of ways to color a grid with three colors
+
+[33mcommit 90302edeb220bcf6068dc69ca5583fdd3380a1bf[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat May 17 15:27:07 2025 +0530
+
+    Refactor sortColors function to use array accumulation instead of in-place swapping for improved readability
+
+[33mcommit 2ecd58b88cc20ecbe7d5f1db931d143274f944c3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri May 16 20:11:02 2025 +0530
+
+    Add implementation of getWordsInLongestSubsequence function to retrieve the longest subsequence of words with unequal adjacent groups
+
+[33mcommit 334a0c2778d22d00186e65f1c9643653cc868d6a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu May 15 21:02:41 2025 +0530
+
+    Add implementation of getLongestSubsequence function to retrieve the longest subsequence of words with unequal adjacent groups
+
+[33mcommit 7c0f01fa6c55071b4ec615068f972da64c951625[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu May 15 21:00:40 2025 +0530
+
+    Add implementation of getLongestSubsequence function to retrieve the longest subsequence of words with unequal adjacent groups
+
+[33mcommit c1c637121f18b9d21853ad3679e5bab230b4b206[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue May 13 12:00:00 2025 +0530
+
+    Add Solution for 3335.Total Characters in String After Transformations I
+
+[33mcommit 73c405f49f8145b1f4ca3b542cd637d07812d1bf[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed May 14 19:59:13 2025 +0530
+
+    Add implementation of lengthAfterTransformations function to calculate the length of a string after transformations based on given parameters
+
+[33mcommit 3638054d0d258f6791ea395b1ce38efe613f76e4[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon May 12 08:54:32 2025 +0530
+
+    Add implementation of findEvenNumbers function to find all 3-digit even numbers from an array of digits
+
+[33mcommit 6e8de7d539431be2dc9ac1a245fe0ebe940fb259[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun May 11 20:38:25 2025 +0530
+
+    Add implementation of threeConsecutiveOdds function to check for three consecutive odd numbers in an array
+
+[33mcommit fde37015b1e7e536cad98e6a928804bc2e5a0907[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat May 10 16:22:53 2025 +0530
+
+    Add implementation of minSum function to calculate minimum equal sum of two arrays after replacing zeros
+
+[33mcommit fc868bd49407e3f5c3ce7e45a212d874d97fbb51[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri May 9 22:19:01 2025 +0530
+
+    Add implementation of countBalancedPermutations function to calculate balanced permutations
+
+[33mcommit 0c17edfc8b6426845864e81ff5dcb036262372d5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu May 8 12:08:12 2025 +0530
+
+    Add MinHeap class and minTimeToReach function implementation
+
+[33mcommit 665e08eacc853f4f82ae4d27649572a423127444[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed May 7 19:51:42 2025 +0530
+
+    Add implementation of minTimeToReach function and CustomPriorityQueue class
+
+[33mcommit 0dd120825c5cb19b71d1ed25e92417f4301af35e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue May 6 19:00:06 2025 +0530
+
+    Add initial implementation of buildArray function with two solutions
+
+[33mcommit efeb88ecd91ddec5130d8db685cd61d91bc4ebd2[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon May 5 11:24:38 2025 +0530
+
+    Add second solution for 790.Domino and Tromino Tiling with improved time complexity
+
+[33mcommit ab749faf82de110181fae77da30740d30075f7c4[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Oct 9 12:00:00 2024 +0530
+
+    Add Solution for 790.Domino and Tromino Tiling
+
+[33mcommit 31c77419372203c6b6967414105204c5711580f5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun May 4 10:04:02 2025 +0530
+
+    Remove unnecessary whitespace in firstMissingPositive function
+
+[33mcommit 0ea16ca0e8bc324044421975dd38ad608c8e25b8[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Aug 13 12:00:00 2024 +0530
+
+    Add Solution for 41.First Missing Positive
+
+[33mcommit c20f8da9339447c954393c73767d5ca529da3b78[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun May 4 09:45:06 2025 +0530
+
+    Add second solution for 1128.Number of Equivalent Domino Pairs with improved runtime efficiency
+
+[33mcommit e67bd3debb56f365686ea3d777dcb0d2d30d0dcf[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun May 4 09:44:15 2025 +0530
+
+    Add Solution for 1128.Number of Equivalent Domino Pairs
+
+[33mcommit 62ada2ce133df52eb493ac9d71fb2741a1d1493b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Apr 19 12:00:00 2025 +0530
+
+    Add Solution for 37.Sudoku Solver
+
+[33mcommit 69c7b0ed73c6c50b09b3b18a5ffa09d68e4338df[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Apr 17 12:00:00 2025 +0530
+
+    Add Solution for 32.Longest Valis Parentheses
+
+[33mcommit f86fda15ba35ad3b6f3e5126d6c21d2bcda8c9e3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Mar 14 12:00:00 2025 +0530
+
+    Add Solution for 31.Next Permutation
+
+[33mcommit c89c63ac86df6227af85580a1d392a5040d29ff3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Mar 4 12:00:00 2025 +0530
+
+    Add Solution for 24.Swap Nodes in Pairs
+
+[33mcommit aaedfb29fba6b1026c26ae0dcff532d61b2d56ec[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jan 30 12:00:00 2025 +0530
+
+    Add Solution for 29.Divide Two Integers
+
+[33mcommit 0302de197bd00c82d169b810e5210ee4e3b2d31e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat May 3 09:09:14 2025 +0530
+
+    Add solution for 1007. Minimum Domino Rotations for Equal Row
+
+[33mcommit b8891e754981569a4d1606696570c4a1c8dad427[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri May 2 07:05:08 2025 +0530
+
+    Add solution for 838. Push Dominoes
+
+[33mcommit 16b9276679967948731bab61079b8cb30b982ddc[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu May 1 12:00:00 2025 +0530
+
+    Add solution for 2071. Maximum Number of Tasks You Can Assign
+
+[33mcommit 98920a27fe1a6664a743547a3de4c19b67c8bf1a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Apr 30 10:52:50 2025 +0530
+
+    add solution for 1295. Find Numbers with Even Number of Digits
+
+[33mcommit bee5e265ec6855d329ba408f2ce660d1a8fa86dd[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Apr 29 20:07:10 2025 +0530
+
+    add solution for 2962. Count Subarrays Where Max Element Appears at Least K Times
+
+[33mcommit f20279d9d3a829cc7ace355d3dc4cbc7f3d9c7d2[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Apr 28 10:32:45 2025 +0530
+
+    add solution for 2302. Count Subarrays With Score Less Than K
+
+[33mcommit f09d795d7b1cf1475b775595b98debb7f8d024c4[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Apr 27 13:43:03 2025 +0530
+
+    add solution for 3392. Count Subarrays of Length Three With a Condition
+
+[33mcommit 131657fb0610263d26b476bd8ae31567c42b919e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Apr 26 11:57:32 2025 +0530
+
+    add solution for 2444. Count Subarrays With Fixed Bounds
+
+[33mcommit e54ebd274f6903f63bca00cae8d8cdbcb696d0ff[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Apr 25 22:35:46 2025 +0530
+
+    add solution for 2845. Count of Interesting Subarrays
+
+[33mcommit 1bcf8310ccac1a6daf834ae603a3565c4d0f01b7[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Apr 24 06:45:08 2025 +0530
+
+    add solution for 2799. Count Complete Subarrays in an Array
+
+[33mcommit 42f5771477eb3ff24004b0079feb8a90c6df5da1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Apr 23 21:17:02 2025 +0530
+
+    add solution for 1399. Count Largest Group
+
+[33mcommit 8451f64de742e0dbb129b382502809f98a47841a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Apr 22 13:53:38 2025 +0530
+
+    add solution for 2338. Count the Number of Ideal Arrays
+
+[33mcommit 7b52c3b9b6eac99882a771b486068798062b2f14[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Apr 21 21:35:51 2025 +0530
+
+    add solution for 2145. Count the Hidden Sequences
+
+[33mcommit 27a565eb64434814b7311b11ab142066c276da9c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Apr 20 18:47:14 2025 +0530
+
+    add solution for 781. Rabbits in Forest
+
+[33mcommit cb4d315de0a6689c9365b1d582389c237842466c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Apr 18 06:27:34 2025 +0530
+
+    add solution for 2176. Count Equal and Divisible Pairs in an Array
+
+[33mcommit 80cfaacd7bca8b4b955740ad531d3c8f0ded2587[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Apr 18 06:23:22 2025 +0530
+
+    add solution for 38. Count and Say
+
+[33mcommit dcd3b6b139729a3f7ab449a28e84f3a09f00e684[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Apr 16 18:19:33 2025 +0530
+
+    add solution for 2537. Count the Number of Good Subarrays
+
+[33mcommit b97cd31648b731402b7c95e47ef92e21f9005f52[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Apr 15 22:26:02 2025 +0530
+
+    add solution for 2179. Count Good Triplets in an Array
+
+[33mcommit 518f157a2040ddec29b0e24fe474cb6cf5a53743[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Apr 14 22:49:24 2025 +0530
+
+    add solution for 1534. Count Good Triplets
+
+[33mcommit 1eebcd8969e08eff2d2c057915da951a5743da6e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Apr 13 10:26:50 2025 +0530
+
+    add solution for 1922. Count Good Numbers
+
+[33mcommit 34467ae92cfcd58f1a98a93f836c1df1b646fa91[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Apr 12 12:28:38 2025 +0530
+
+    add solution for 3272. Count the Number of Good Integers
+
+[33mcommit e075cd6b1cfe9317fee15a3f10048fd5bd06be7a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Apr 11 22:43:17 2025 +0530
+
+    add solution for 2843. Count Symmetric Integers
+
+[33mcommit 5859049ae3c3e630d52a806cf34e5ae77047f7bb[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Apr 10 19:46:01 2025 +0530
+
+    add solution for 2999. Count the Number of Powerful Integers
+
+[33mcommit 19b039e4af6e58efeb37efcb5e3340ccbd6ce26a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Apr 9 06:49:55 2025 +0530
+
+    add solution for 3375. Minimum Operations to Make Array Values Equal to K
+
+[33mcommit 92a525dcedbf02440e4014b3a948902c8bc5d656[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Apr 8 20:57:16 2025 +0530
+
+    add solution for : 3396. Minimum Number of Operations to Make Elements in Array Distinct
+
+[33mcommit e1901b3edeb7fbf1f468974b8324499dbee2c0aa[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Apr 7 12:09:04 2025 +0530
+
+    add solution for 416. Partition Equal Subset Sum
+
+[33mcommit 71ce35846a8c878f961065a8f21efb9968962cdf[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Apr 6 08:48:40 2025 +0530
+
+    fix: add missing line for clarity in largestDivisibleSubset solution 2
+
+[33mcommit 6eb657fbea57ac1221f2f7083a097450c1495d37[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Apr 6 08:47:05 2025 +0530
+
+    refactor: update function declaration to arrow function syntax for largestDivisibleSubset
+
+[33mcommit d94a98a7d43400b12986fbfaded104da3b75b3d5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Apr 6 08:44:39 2025 +0530
+
+    add second solution for 368. Largest Divisible Subset
+
+[33mcommit 4690cb43d75aadb961af776aaaafdaba663b9a53[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Apr 6 08:43:00 2025 +0530
+
+    add solution for 368. Largest Divisible Subset
+
+[33mcommit ec16367eb02a1378280ff5fa61cc1b77d8bf7cae[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Apr 5 19:59:27 2025 +0530
+
+    add solution for 1863. Sum of All Subset XOR Totals
+
+[33mcommit a89bf413c1b0c2ae8e1a9192b09896f8784026de[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Apr 4 21:13:52 2025 +0530
+
+    add solution for 1123. Lowest Common Ancestor of Deepest Leaves
+
+[33mcommit 4e0996c043ea86b577ef0923d84dcc0735133e5e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Apr 3 19:22:04 2025 +0530
+
+    add solution for 2874. Maximum Value of an Ordered Triplet II
+
+[33mcommit c8dbe899973d6e740e115cc85101c02d8b0d1746[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Apr 2 06:52:59 2025 +0530
+
+    add solution for 2873. Maximum Value of an Ordered Triplet I
+
+[33mcommit 5720d92fad3f0d0e2e82a64eb66698e5e55e3329[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Apr 1 10:11:29 2025 +0530
+
+    add solution for 2140. Solving Questions With Brainpower
+
+[33mcommit b94ec4f066e6ad68fb0525c017d6b8fe9ce55f05[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Mar 31 09:37:43 2025 +0530
+
+    add alternative solution for 2551. Put Marbles in Bags
+
+[33mcommit a46395d7d979fac45d1b8e0c151fef564e380836[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Mar 31 09:36:50 2025 +0530
+
+    add solution for 2551. Put Marbles in Bags
+
+[33mcommit 612d2154efaab21d8733066ac60b4b3280a43ede[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Mar 30 09:18:27 2025 +0530
+
+    add solution for 763. Partition Labels
+
+[33mcommit bc4581c0aadcfa9936e49c996fc7566ac772f3f8[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Mar 29 17:04:02 2025 +0530
+
+    add solution for 2818. Apply Operations to Maximize Score
+
+[33mcommit 25384e9b54bcacdaf7d4e8bd279f34e162d768aa[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Mar 28 19:31:26 2025 +0530
+
+    add solution for 2503. Maximum Number of Points From Grid Queries
+
+[33mcommit fcdbd647e735842d61a77bfbe112627419c1a4c6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Mar 27 16:39:53 2025 +0530
+
+    add solution for 2780. Minimum Index of a Valid Split
+
+[33mcommit 9b5e5e4ffc977e405408a13a11d2ea311cec782e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Mar 26 16:37:23 2025 +0530
+
+    add solution for 2033. Minimum Operations to Make a Uni-Value Grid
+
+[33mcommit e456bc4f7af03ba8522dd33d46239c2076d406b8[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Mar 25 08:12:33 2025 +0530
+
+    add solution for 3394. Check if Grid can be Cut into Sections
+
+[33mcommit e5d7c19991417bd9c43df8cc1b84de606d4175fa[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Mar 24 12:08:07 2025 +0530
+
+    add optimized solution for 3169. Count Days Without Meetings
+
+[33mcommit 3c4013d7a314462f033bfb3c2447c32bcc25930a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Mar 24 12:01:50 2025 +0530
+
+    add solution for 3169. Count Days Without Meetings
+
+[33mcommit 5aaa2d1e07e8ea3441378b17ef4d313c94299a63[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Mar 23 09:22:43 2025 +0530
+
+    add solution for 1976. Number of Ways to Arrive at Destination
+
+[33mcommit b4ea5bb069a2ffbe2a6a6563dc13df9650212eda[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Mar 22 11:01:00 2025 +0530
+
+    add solution for 2685. Count the Number of Complete Components
+
+[33mcommit 6d730e098863630c0f2d4e69ad43e195a68b630c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Mar 21 07:26:11 2025 +0530
+
+    add solution for 2115. Find All Possible Recipes from Given Supplies
+
+[33mcommit f832c229b8c33c62c171c661e466347fb6e6b3c0[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Mar 20 10:53:59 2025 +0530
+
+    add solution for 3108. Minimum Cost Walk in Weighted Graph
+
+[33mcommit dc25c418e6375618e5a28d78e6be3ef6d73fff35[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Mar 19 19:38:45 2025 +0530
+
+    refactor: add whitespace for improved code readability in Minimum Operations to Make Binary Array Elements Equal to One I
+
+[33mcommit 80d1a39ba53d678376c0982173ccc83d89b146e0[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Mar 19 19:36:23 2025 +0530
+
+    add solution for 3191. Minimum Operations to Make Binary Array Elements Equal to One I
+
+[33mcommit 9ef5d4f47a6f011b0563217d477734e1cb6ed2d5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Mar 18 06:51:59 2025 +0530
+
+    add solution for 2401. Longest Nice Subarray
+
+[33mcommit c55078dd70d01d90446b92d07979d0d9b80cd6e2[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Mar 17 13:39:54 2025 +0530
+
+    add solution for 2206. Divide Array Into Equal Pairs
+
+[33mcommit 4ea145741ed7654239793a15660c0bc7a1d2af5a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Mar 16 12:06:24 2025 +0530
+
+    add solution for 2594. Minimum Time to Repair Cars
+
+[33mcommit 0e193dbaf3be24499ad97d3d8a6f468ea08ef0ce[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Mar 15 09:53:06 2025 +0530
+
+    add solutions for 2226. Maximum Candies Allocated to K Children and 2560. House Robber IV
+
+[33mcommit 88146c8bf2711a11b4ddbdc0b1f26a78e9a1864a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Mar 13 08:01:42 2025 +0530
+
+    add solution for 3356. Zero Array Transformation II
+
+[33mcommit 79f52a4d09461a26af07bf3354e5e754e2747676[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Mar 12 10:08:09 2025 +0530
+
+    refactor binarySearch function for improved readability
+
+[33mcommit 600d26456b51812d0bc06a46d7ad0961617e46b3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Mar 12 10:07:48 2025 +0530
+
+    add solution for 2529. Maximum Count of Positive Integer and Negative Integer
+
+[33mcommit 8c49f6523fbf5fe62856622e257391df1b19fdca[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Mar 11 13:05:15 2025 +0530
+
+    add solution for 1358. Number of Substrings Containing All Three Characters
+
+[33mcommit b3034d57071f776295f9ee6f3cd93938b1a2dd2b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Mar 10 11:29:24 2025 +0530
+
+    add solution for 3306. Count of Substrings Containing Every Vowel and K Consonants II
+
+[33mcommit f46435e7c7716c571ea211a48f3719912902dd73[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Mar 9 20:55:34 2025 +0530
+
+    add solution for 3208. Alternating Groups II
+
+[33mcommit 1a70f8ba1e1458f2c357a17e9daf1e5367d346a3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Mar 8 20:33:43 2025 +0530
+
+    add solution for 2379. Minimum Recolors to Get K Consecutive Black Blocks
+
+[33mcommit eb715735f214ad2d7f8c8b6468da639061015d38[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Mar 7 09:56:28 2025 +0530
+
+    add solution for 2523. Closest Prime Numbers in Range
+
+[33mcommit 2c10fda1326090798a8311e9fc20f81f81b641dd[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Mar 6 10:03:11 2025 +0530
+
+    add solution for 2965. Find Missing and Repeated Values
+
+[33mcommit 3bb6b1771540f66541d755f80f446fc9cc096939[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Mar 5 09:04:51 2025 +0530
+
+    add solution for 2579. Count Total Number of Colored Cells
+
+[33mcommit 81c40cf028d0a29288ad7eae9c5d2f5ba2fda9cd[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Mar 3 12:13:05 2025 +0530
+
+    #edited
+
+[33mcommit 8a42dc658ce16dc45c2597e57ae8be7e30d2dbba[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Mar 3 12:07:48 2025 +0530
+
+    add second solution for 2161. Partition Array According to Given Pivot
+
+[33mcommit 3913894a9b873f8f23bfe1e3633d0d34256360c1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Mar 3 12:04:18 2025 +0530
+
+    add solution for 2161. Partition Array According to Given Pivot
+
+[33mcommit c5ec4e63602a2b4bee58848c56177efa0e80c580[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Mar 2 13:12:13 2025 +0530
+
+    add solution for 2570. Merge Two 2D Arrays by Summing Values
+
+[33mcommit f34cc8f1c33fb6d57468c6f148f00c4e4b7764aa[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Mar 1 11:42:35 2025 +0530
+
+    add solution for 2460. Apply Operations to an Array
+
+[33mcommit fdd19b3c0ab045da8bfce716b1077b9437a01131[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Feb 28 10:44:29 2025 +0530
+
+    update VSCode settings to include "Supersequence" in the list of algorithms
+
+[33mcommit 224fc34b58f797db336ebe70bd1f366f9568b5ba[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Feb 28 10:44:05 2025 +0530
+
+    add solution for 1092. Shortest Common Supersequence
+
+[33mcommit b8c047d8a824a448f71587e42ded072ffa994e99[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Feb 27 09:04:39 2025 +0530
+
+    add solution for 873. Length of Longest Fibonacci Subsequence and update VSCode settings
+
+[33mcommit 30db41999d466dc12c06ac33e32351a6d6a4fa29[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Feb 26 06:52:05 2025 +0530
+
+    add solution for 1749. Maximum Absolute Sum of Any Subarray
+
+[33mcommit c2055cb7280d74b37dd4962aaa20662d2694e23d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Feb 25 16:28:56 2025 +0530
+
+    add solution for 1524. Number of Sub-arrays With Odd Sum
+
+[33mcommit 193ad935f92483ef8d06adc9f6eacd7467b379df[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Feb 24 11:43:53 2025 +0530
+
+    add solution for 2467. Most Profitable Path in a Tree
+
+[33mcommit c0e4bf29090336406356e4dd48ac039765ff3a6e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Feb 23 22:02:34 2025 +0530
+
+    add solution for 889. Construct Binary Tree from Preorder and Postorder Traversal
+
+[33mcommit 5954604bf45aea24acca26f72773ee0898608d7f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Feb 22 09:32:27 2025 +0530
+
+    add solution for 1028. Recover a Tree From Preorder Traversal
+
+[33mcommit 359c4633356f2488e03191c8d5ee6fb74deaa4c8[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Feb 21 09:24:02 2025 +0530
+
+    add solution for 1261. Find Elements in a Contaminated Binary Tree
+
+[33mcommit bb0913ebfb4a8752db75e8c145fc047e4634cf59[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Feb 20 09:07:47 2025 +0530
+
+    add solution for 1980. Find Unique Binary String
+
+[33mcommit 85b98594f96b67e0d1ce76d386ba1adad5443785[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Feb 19 20:31:38 2025 +0530
+
+    add solution for 1415. The k-th Lexicographical String of All Happy Strings of Length n
+
+[33mcommit 198ebdb0579122d8ddf9dd0345dfcd8a53d81f74[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Feb 18 14:44:40 2025 +0530
+
+    add solution for 2375. Construct Smallest Number From DI String
+
+[33mcommit e04f58a3ba5de47fa3d1914943e7c40bf7fe697c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Feb 17 11:06:10 2025 +0530
+
+    add solution for 1079. Letter Tile Possibilities
+
+[33mcommit ff233055a135066d98b50fee42b45a0781c247f8[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Feb 16 10:16:48 2025 +0530
+
+    add solution for 1718. Construct the Lexicographically Largest Valid Sequence
+
+[33mcommit 0a2a4ec7031ca9bcc69446ccae5f14947de5372d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Feb 15 10:57:20 2025 +0530
+
+    refactor: improve formatting and whitespace in punishmentNumber function
+
+[33mcommit 4be2416670a61370e0e984cafe5ec35b2bd39316[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Feb 15 10:56:31 2025 +0530
+
+    add solution for 2698. Find the Punishment Number of an Integer
+
+[33mcommit 0480d6d8eb2b1a2f9480d4d7ca56a260af0d74e8[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Feb 14 10:32:55 2025 +0530
+
+    add solution for 1352. Product of the Last K Numbers
+
+[33mcommit 1366f0e7fe37c05511d10f73ea1cbab5fbbc6c27[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Feb 13 09:39:50 2025 +0530
+
+    add solution for 3066. Minimum Operations to Exceed Threshold Value II
+
+[33mcommit 0c9cc129eb4d4e1864ef4aa0180ad43648b41ed3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Feb 12 16:37:05 2025 +0530
+
+    add solution for 2342. Max Sum of a Pair With Equal Sum of Digits
+
+[33mcommit 347a597befa3d3c7d0a2074afc2db1c2ed369794[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Feb 11 10:15:57 2025 +0530
+
+    refactor: improve whitespace and formatting in removeOccurrences function
+
+[33mcommit 27752f0dd561bafd0be85264b8c9bdd532048142[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Feb 11 10:15:22 2025 +0530
+
+    add solution for 1910. Remove All Occurrences of a Substring
+
+[33mcommit 4efa76adba85d040f5f9e87adc82c49c28326cd3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Feb 10 19:12:17 2025 +0530
+
+    refactor: improve formatting in clearDigits function
+
+[33mcommit d96c9028937f428a7c8105e6448570c6d83299a5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Feb 10 19:11:04 2025 +0530
+
+    add solution for 3174. Clear Digits
+
+[33mcommit a98df2b4b219d1c34b2b74b8e8cfc755c097c61b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Feb 9 08:17:36 2025 +0530
+
+    add solution for 2364. Count Number of Bad Pairs
+
+[33mcommit 4604112180bbb47f42e53b8457ef7b7be15042fd[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Feb 8 09:15:15 2025 +0530
+
+    add solution for 2349. Design a Number Container System
+
+[33mcommit e235af04842825c4e0759f699068ef51334204e9[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Feb 7 09:28:49 2025 +0530
+
+    add optimized solution for 3160. Find the Number of Distinct Colors Among the Balls
+
+[33mcommit 927dce04378e57cdb69970a3b9fcd016be1bd4ec[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Feb 7 09:06:20 2025 +0530
+
+    add solution for 3160. Find the Number of Distinct Colors Among the Balls
+
+[33mcommit aae7830e37a887570fc1081efb5cf32ae3c99efe[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Feb 6 10:01:55 2025 +0530
+
+    add solution for 1726. Tuple with Same Product
+
+[33mcommit 0c44064d9932516a7de1040495d58396a10a36f1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Feb 5 11:15:23 2025 +0530
+
+    add solution for 1790. Check if One String Swap Can Make Strings Equal
+
+[33mcommit 414ad39830141ecbd230078c5ef14e158619416e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Feb 4 09:33:45 2025 +0530
+
+    add solution for 1800. Maximum Ascending Subarray Sum
+
+[33mcommit 78955e9e005d950685a1e5eb748aba7ba95d5098[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Feb 3 18:57:56 2025 +0530
+
+    add solution for 3105. Longest Strictly Increasing or Strictly Decreasing Subarray
+
+[33mcommit a48abcaf47b5672f89e4ec88c3f50a2b75d9bc08[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Feb 2 09:18:11 2025 +0530
+
+    add solution for 1752. Check if Array Is Sorted and Rotated
+
+[33mcommit 4ef122cd3c85c1d6cbe30d6dc0a8c38d95674202[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Feb 1 10:30:25 2025 +0530
+
+    add solution for 3151. Special Array I
+
+[33mcommit eb2ead33387ebb4dd641392f8e388201d6c6c05f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jan 31 11:40:52 2025 +0530
+
+    add solution for 827. Making A Large Island
+
+[33mcommit 4c791cef3dadf0b31a60c0361b8c34e07c8a8a32[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jan 29 11:03:39 2025 +0530
+
+    add solution for 684. Redundant Connection
+
+[33mcommit 87770803138a6aba57d05c81f227741b2ec58a5d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jan 28 09:56:36 2025 +0530
+
+    add solution for 2658. Maximum Number of Fish in a Grid
+
+[33mcommit 7761803f280a97a4e3e0b220f87b0772fd9c47e5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jan 27 18:31:27 2025 +0530
+
+    add solution for 1462. Course Schedule IV
+
+[33mcommit fad962d958fc04202aa41692e51a86f53da2a333[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jan 26 12:40:09 2025 +0530
+
+    add solution for 3434. Maximum Frequency After Subarray Operation
+
+[33mcommit 572aef12d32d9d0e76321a8d0bb8cd29cc6b82f8[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jan 26 12:39:12 2025 +0530
+
+    add solution for 3433. Count Mentions Per User
+
+[33mcommit 33fc0f8835fdf295714b4cedbf38f99f2afaaa34[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jan 26 12:30:34 2025 +0530
+
+    add solution for 3432. Count Partitions with Even Sum Difference
+
+[33mcommit 6ef3c74ff77a99f95414c9394d0fbf17d5c96020[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jan 26 11:20:54 2025 +0530
+
+    add solution for 2127. Maximum Employees to Be Invited to a Meeting
+
+[33mcommit b57795da15746f683e4f18cd7447adff5f46b852[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jan 25 11:03:15 2025 +0530
+
+    add solution for 3430. Maximum and Minimum Sums of at Most Size K Subarrays
+
+[33mcommit 2469394676f3d2c94ba6054eda7686e269d51686[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jan 25 10:32:25 2025 +0530
+
+    add solution for 2948. Make Lexicographically Smallest Array by Swapping Elements
+
+[33mcommit 1c1b31f575fb16a2cd16d83366fc93b9b11a4d68[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jan 24 10:27:39 2025 +0530
+
+    add solution for 802. Find Eventual Safe States
+
+[33mcommit 5a008d36e47735f4befb8537ab3a323fe1f89e33[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jan 23 10:27:01 2025 +0530
+
+    add solution for 1267. Count Servers that Communicate
+
+[33mcommit ca55402fc3df8cf0813c4dd53f5a07effd18159b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jan 22 10:35:39 2025 +0530
+
+    add solution for 1765. Map of Highest Peak
+
+[33mcommit 4acad81405bd76146f56f91a23b84cb755a23f60[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jan 21 11:20:44 2025 +0530
+
+    add solution for 2022. Grid Game
+
+[33mcommit cbe972af42e25f123384b9af00a694e92234a42d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jan 20 11:17:59 2025 +0530
+
+    add solution for 2661. First Completely Painted Row or Column
+
+[33mcommit 4ae84603cc7d4e6014c5cb7f87349072f1cb3617[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jan 19 18:08:55 2025 +0530
+
+    add solution for 407. Trapping Rain Water II
+
+[33mcommit d4a9c3485d75453421a0702d7ee9dd2f9e3b17c1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jan 18 22:10:31 2025 +0530
+
+    add solution for 1368. Minimum Cost to Make at Least One Valid Path in a Grid
+
+[33mcommit fc76dec87a88dd2bd76dfe6428a52deb6c3beb12[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jan 17 20:05:33 2025 +0530
+
+    add solution for 2683. Neighboring Bitwise XOR
+
+[33mcommit 7599cdf28d26419892c24d82a473bc0951e08e85[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jan 16 11:47:05 2025 +0530
+
+    add solution for 2425. Bitwise XOR of All Pairings
+
+[33mcommit 9b83de164993dad9b094cf51ea0a3697b6359330[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jan 15 19:20:51 2025 +0530
+
+    add solution for 2429. Minimize XOR
+
+[33mcommit 423539bcb994cded1a9476ace4a88791d7b370be[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jan 14 22:23:07 2025 +0530
+
+    add solution for 2657. Find the Prefix Common Array of Two Arrays
+
+[33mcommit 6d3d90654894068eebe93dff57e5d328bb2a4001[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jan 13 13:15:42 2025 +0530
+
+    add solution for 3223. Minimum Length of String After Operations
+
+[33mcommit 0d81bb947af23c914863d8033093eae9fe05c799[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jan 12 13:48:21 2025 +0530
+
+    add solution for 2116. Check if a Parentheses String Can Be Valid
+
+[33mcommit 07a2c2dbb14eb03388c0c3df118fe2230d247f8b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jan 11 12:45:27 2025 +0530
+
+    add solution for 1400. Construct K Palindrome Strings
+
+[33mcommit 3f04fb9520c4d16adeedc2d8af845ba8db720e62[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jan 10 19:52:07 2025 +0530
+
+    add solution for 916. Word Subsets
+
+[33mcommit a29d8a94fc551811d82498a1676431d0a74d813c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jan 9 11:30:44 2025 +0530
+
+    add solution for 2185. Counting Words With a Given Prefix
+
+[33mcommit ad7f65bf10bfec9eae5888f6be06e4000a03b5fb[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jan 8 10:11:53 2025 +0530
+
+    add solution for 3042. Count Prefix and Suffix Pairs I
+
+[33mcommit 5bb6d17e32eeb9687a9aca97df333c6993efafd6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jan 7 10:43:51 2025 +0530
+
+    add solution for 1408. String Matching in an Array
+
+[33mcommit ba0dae281d646a5b208e3aaa5832f4387b56ef53[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jan 6 10:51:55 2025 +0530
+
+    add solution for 1769. Minimum Number of Operations to Move All Balls to Each Box
+
+[33mcommit e91b0922e8edef7f809dddab2fa87275aefaf36a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jan 5 09:38:22 2025 +0530
+
+    add solution for 2381. Shifting Letters II
+
+[33mcommit 9569cd8d1ceb6fc38c609d0e8f070b59a8b3918d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jan 4 10:08:56 2025 +0530
+
+    add solution for 1930. Unique Length 3 Palindromic Subsequences
+
+[33mcommit 5da1378701b4a8b5bdfed10656d951ea4e68d3ea[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jan 3 09:53:39 2025 +0530
+
+    add solution for 2270. Number of Ways to Split Array
+
+[33mcommit 5e34b4ee1e3ca7e2e9c8d1df3819b12d1b0d40dc[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jan 2 12:07:41 2025 +0530
+
+    add solution for 2559. Count Vowel Strings in Ranges
+
+[33mcommit 1a5d05c0dd4bee00d77a35c587951681d2c6f6bd[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jan 1 14:45:08 2025 +0530
+
+    add solution for 1422. Maximum Score After Splitting a String
+
+[33mcommit 1408a7031eb554ea098a124d56f44ac8334ad45d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Dec 30 08:49:20 2024 +0530
+
+    add solution for 2466. Count Ways To Build Good Strings
+
+[33mcommit 863f186f889b253888b55255cced75cae8739352[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Dec 29 12:37:45 2024 +0530
+
+    add solution for 1639. Number of Ways to Form a Target String Given a Dictionary
+
+[33mcommit 6a7a2196709ba21b5be3a356d21e70b6ab411eb0[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Dec 28 09:17:34 2024 +0530
+
+    add solution for 689. Maximum Sum of 3 Non-Overlapping Subarrays
+
+[33mcommit 924280d975efac4b95b0aee86edc17ab3557e9ec[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Dec 27 19:03:47 2024 +0530
+
+    add solution for 1014. Best Sightseeing Pair
+
+[33mcommit 10300bb427b8cebbc7bb929e62a50623a014fab1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Dec 26 10:06:56 2024 +0530
+
+    add solution for 494. Target Sum
+
+[33mcommit 16a722ba0a0e6b8e77996098130a06feb03e78f6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Dec 25 13:50:05 2024 +0530
+
+    add solution for finding largest value in each row of a binary tree
+
+[33mcommit ce2df6b4b3d7b09c3148f4da371ccc830a356c6b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Dec 24 08:53:13 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 6b6a5477a1d7d27d2de97b131a1eb115f5e8d48a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Dec 23 09:23:21 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 59d353bfd8f272ff40c831de990b86983cd2b43e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Dec 22 09:07:30 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit a1f52125982506b9e6f84d350bc5fe943b3b469e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Dec 21 23:35:00 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 3951ea9d0e2b20539d9bca4d72c70b1c738d8885[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Dec 20 09:26:25 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 0ad14161751dd3bb4a97a8d594f8103ab0135d64[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Dec 19 19:16:31 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 616d16f62e75407b1b91b3d66cf80370182febae[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Dec 18 09:48:33 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit f756497b4e039dce678dd5d66a5fad9b69410aaa[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Dec 17 10:00:32 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 3ae42943ae2a75545c67aede80a7352f9d077d8d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Dec 16 08:55:14 2024 +0530
+
+    leetcode daily problems solved
+
+[33mcommit df07cd0dea147d1ffd88fea196bfe375cb97de19[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Dec 15 09:18:22 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit a46431bade1ceec11fd7b38fb40bcaaa868dd1ce[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Dec 14 19:01:45 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 8d2a0d145ca7cfac13ec0816a4e86aec143172cf[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Dec 13 19:16:29 2024 +0530
+
+    leetcode daily problem sovled
+
+[33mcommit 5c322196cd63bf2af7d8972ec78ad690c4c9e361[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Dec 12 09:41:39 2024 +0530
+
+    leetcode daily problems solved
+
+[33mcommit 7605dae839275855afa570673c5d366f4f778203[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Dec 11 11:05:22 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 0e787a6f73f96072bbd9f5f50aa26cd2c0bf8aaf[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Dec 10 09:11:16 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 3276888a8dfa2791383417f17150d5986cdfa9b7[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Dec 9 09:01:10 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit ca107c5dfcdbb87d5ee5583b90f133e046ec96a8[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Dec 8 09:29:26 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 4942c24509c1d4e3d2f6497bfb8a5effc78a336a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Dec 7 09:25:54 2024 +0530
+
+    leetcode daily problem solved #beats100%
+
+[33mcommit 4fe7eabb637962f877fc17eede7cfaeb8e984165[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Dec 6 11:08:32 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 6121c81c9e34d4a5778977b39d7c2b0418d0c515[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Dec 5 09:43:20 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit a34c771ca00dd1156250845756d6472f723c8370[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Dec 4 17:57:58 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 53a931895befbf20415f8354f16371a0bd9e1f06[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Dec 3 09:47:37 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 65248ee298a1014e17c60f296e359e239680678e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Dec 2 09:00:54 2024 +0530
+
+    leetcode daily problem solved #beats 100%
+
+[33mcommit 7602c77769db94bdf926260a4dd766cb34bbec0a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Dec 1 09:18:40 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 6401e6a2f06eb81810874bec73970fab09527573[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Nov 30 09:51:13 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 37c67f8f4d0a579da5422e1dc140c51e243ad8b5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Nov 29 09:22:17 2024 +0530
+
+    leetcode daily problem solved # beats 100%
+
+[33mcommit 70913eb47573733ea154e42df084e43b96eafd00[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Nov 28 09:33:46 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 16c144717fe643be4bfef8b3563fd50932994b20[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Nov 27 10:46:59 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit c8a43a3c30e9512af6329defd9e44e10de258efd[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Nov 26 10:11:30 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit b36060d90c97689f6cab04ae01329ff5b4ec8af3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Nov 25 10:35:50 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit bd84afa070706c73c4bd124121dc6ef161d06758[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Nov 24 08:50:58 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 56947b2079905d93ba454cfa343758e5bab11ef5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Nov 23 11:02:08 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit f3ce2e60b59c61de9ec66c43aa1316241b8ffdc8[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Nov 22 10:48:20 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 5093aa78a2f1d5542fa2f632b937d7cb5af257ac[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Nov 21 12:00:00 2024 +0530
+
+    leetcode daily problem sovled
+
+[33mcommit 3792f464a6426e485216498a1c79ebe938c876ab[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Nov 20 10:51:43 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit aa342d1b7f1a3676706de32648ad6983345c541c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Nov 19 09:35:13 2024 +0530
+
+    leetcode daily problem sovled
+
+[33mcommit 4484d76c9350f6c61e87269af0f7a243add0f8ba[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Nov 18 10:16:51 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit ba13ebb6b793731f9d02a1ad80d201c0b25b4f96[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Nov 17 10:50:01 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 0cae6e7bdb0da6e14a153af92301d46e68b04b90[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Nov 16 11:00:23 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit ac4d7eba6e53e780c77da7fe39510c15b9a74553[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Nov 15 10:12:17 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 4eb3ae1d5fec031c673a55a703371845d895cc97[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Nov 14 09:43:56 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 4a87ee6de751d893470107f3bea9891a8b0fea24[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Nov 13 09:57:13 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 2dd4723d5032a6e8a9c06fd037d3fb6763852cd6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Nov 12 11:46:36 2024 +0530
+
+    leetcode daily problems solved
+
+[33mcommit 1b22fc937c0bb7ac3060ac43ddb429e013ef206b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Nov 11 17:45:49 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit f5e9349993f6172300b581120f0cb440d04d26ff[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Nov 10 10:20:05 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 05b4d92972056967c0caf8b86a9ababf0dd3c178[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Nov 9 11:36:14 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 8e1a6d9f122f2f6b78d9f49c119aeb02b6aeb8e3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Nov 8 11:00:04 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 9e179f3c89811043ee4373cf5f95fdd3e332c50e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Nov 7 19:06:44 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 957963fbbc0ad47401c02c759d7ed4e73bcd8508[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Nov 6 11:18:35 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit d45f66ba8394a76ac4b1d6907a828b3e322ebc74[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Nov 5 09:47:29 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 4fad96a0dfb1fc54d551c109a9a8f39ee387cb3a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Nov 4 15:07:12 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 66077440aabafad0920cc3045236d2e10c03da05[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Nov 3 18:42:47 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit e435a82819d0defd73af598b30b7c9a3721c2705[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Nov 2 11:35:43 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 19dd210f8b259ed87d99fe99312b014e68612128[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Nov 1 18:00:04 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit e161acd2826bfbfddae088a21e912b34087ef315[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Oct 31 10:38:54 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 6614f84587216b32048fe96dd92120cee3ac18e2[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Oct 30 19:49:50 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 213df2791077f96ebe0037d3b1379c3f4b0eb142[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Oct 29 22:47:07 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit a23219620c691004ad5cb222793b4ce3c6759151[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Oct 28 12:03:53 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit f89b5b4c0a8d613964ca14418a210d54bd10358b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Oct 27 11:51:07 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit df9698050142f1c28d9f989551659b6385bcc06d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Oct 26 09:26:44 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit c6fa2a36f59a28bb4c898b58c29b1c5f22265b76[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Oct 25 08:38:58 2024 +0530
+
+    leetcode daily problems solved || beats 100% users in runtime
+
+[33mcommit 10dd178fb130627345cdbe20b0f1a919fb940e38[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Oct 24 11:38:19 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit b9297fd7f12d6d8303b0ea0acc39fa4332baa9fa[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Oct 23 09:59:15 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 0be86a1ea758d9d5813b5733456cef084de53edb[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Oct 22 08:56:23 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit b9daf4da6d84a3467a48f8884b385ccb6e5513c4[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Oct 21 10:22:12 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit a25d4e3d63b9e7c1006f929889c5f42d8e09c708[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Oct 20 07:34:58 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit c3726fb36a41152d0720431e88ad076988c7fcae[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Oct 19 11:23:21 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit c4442bf2205278eac4c28341449a4271c320ceaa[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Oct 18 09:04:39 2024 +0530
+
+    leetcode daily problem solved beats 100%
+
+[33mcommit 19ad71bbc6095278a8f7834df464610e8daae68a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Oct 17 10:19:21 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 6eb87fbedb1e438a799caaf01c9d2798df414955[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Oct 16 10:29:53 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 8517f8e497df6eac8e3454eb21619f197f4a4784[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Oct 15 12:29:10 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 6888f5e631c0d8aa376525446f3c8356920ca772[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Oct 14 18:55:31 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 84a498bb5688f75ed7a862d11cc55e56f10f3cf7[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Oct 13 09:58:18 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit d95a4e74438d709f7d2e19d466d68b4ec24be946[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Oct 12 09:10:37 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 17b6cb3d353ed1f620ea1593fea504978fd708c4[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Oct 11 09:05:09 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 5b2c57a6252adc484f84e0518674ada6201ef463[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Oct 10 08:48:31 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 7a0f6bfed3c78e1db7a703727badb58a2d017aa0[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Oct 9 14:00:42 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 45bafab50c148bf739f093f2b68dd72bfa1d965f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Oct 8 09:07:44 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit fcaf51e7f020155cf5c833ecfb7ece8def5eaca8[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Oct 7 11:59:20 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit c76ab80bddbb2bcf91ecaf1dd34c2f2460da8422[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Oct 6 22:23:58 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 401f080a0b452b6a7023e9d5c3a64359537eeb76[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Oct 4 20:12:19 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 04708bbc0300b867b758117aa1356e729589245a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Oct 3 10:13:06 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit f08e4ce6447803fe95e948693a4ffe131cc2ce0a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Oct 2 10:28:30 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit bf126f9518879de7111f4461cd39139a5298c19f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Oct 1 08:14:58 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 795d5b2f6b4aeb777f201028db8cd625d526e2a3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Sep 30 08:08:28 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 81ba996d02c876378d0b0b000400b0a4d4ba13b7[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Sep 29 07:55:46 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit f86048d13d21f67c83e8a37a153546561b9db16e[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Sep 28 08:21:42 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit e4840acfa93bdaa1d8ecd7d121fdd967ecab31a6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Sep 27 09:19:01 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 85d77df5ceccdbd09c9caba3a50e8266c08d5648[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Sep 26 11:06:14 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit fa187dcf6ac27b5216709b0123d797ac523a62b6[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Sep 25 07:19:31 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 4cbc497c538241f72f8582ce9067a8cd6bb24964[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Sep 24 12:53:11 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 7b1307c2fe004580f714bc941291c6f1bb439348[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Sep 23 08:58:15 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 3fa609e15cc3c1b4790170e5b55a8bd76a50fdef[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Sep 21 08:39:40 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 63fac2ae3ace972106c3be7dd971762d0c408c12[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Sep 20 10:57:32 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 57cd94f387d0898ecde5de20961eb1de8e2a28d1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Sep 19 09:44:37 2024 +0530
+
+    LeetCode Daily Problem Solved
+
+[33mcommit f4da74c85e4673916da7fa291a51ee181e204674[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Sep 18 10:23:22 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit d825b4a352008210b2fc6354302c94e99208acf1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Sep 17 11:51:03 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit b069ec9c57640af61bdf470cbb217b634bb18cbf[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Sep 16 13:18:16 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit d7d065f45f9d4ee059c82fa5fa1c044305031e1a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Sep 15 17:43:32 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 240ce84dc66e81f2d59bf10eef738be00f397331[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Sep 14 17:22:44 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 39ad06e396610de465d197a13258feb198752230[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Sep 13 09:15:20 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 8dbb2fa67e687c908f93dec1becf0244618bc3c7[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Sep 12 10:33:40 2024 +0530
+
+    Leetcode daily problem solved
+
+[33mcommit d503bf5007b21f6ecb91d433f38dd98e695235a8[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Sep 11 10:30:08 2024 +0530
+
+    Leetcode daily problem solved
+
+[33mcommit a95baf34243179875f61b2ab3a0b47a3ac6beeb0[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Sep 10 09:39:13 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit d21622a54c6e23c362458139e0d5ee2deb1dc86a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Sep 9 07:53:06 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 0c40cc07b352f530cbf8d062ced37bbfec2ba872[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Sep 8 07:59:25 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit cb6d1097e6c0b64c1928aa6d260a9859e9b4a19d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Sep 7 08:39:14 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit ead7a89a727f5ca45e55fe7f639c91436526b472[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Sep 6 08:21:32 2024 +0530
+
+    leetcode daily problems solved
+
+[33mcommit 164adc4cf8102261241386d987d5c80ca6c00640[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Sep 4 11:14:28 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 861d40aa4054ee96aa1b7740418b20c844796f98[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Sep 3 13:42:09 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit db9b4da519ac1e51c7732a750c1e71f4df5cdf49[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Sep 2 10:42:03 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 5cfc43f7207796a75b7bf16d6836a1440e2a4b4c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Sep 1 20:25:17 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit ff36ed3d33851fde4fce20add98954fe4d905a99[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Aug 31 08:01:25 2024 +0530
+
+    repeatation of problem
+
+[33mcommit 7caa717519543daa7300939b8333ad663c2b9fcb[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Aug 30 12:53:35 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit bda24489c2a60beabaec097d1551faf7e1f03685[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Aug 29 16:01:07 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 3432217e3827ef8820a4a24002c586fc038b47d5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Aug 28 16:22:37 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit fbcacbce8017fbdc4bbbc3faf329b8ab3969c501[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Aug 27 21:24:55 2024 +0530
+
+    leetcode daily video solved
+
+[33mcommit 80799363153a74d103de9c06c0c8a8f5a26aeeac[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Aug 26 12:16:12 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit f17e012fd2f7356de1a873bce91b4ce37441b107[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Aug 25 11:34:14 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 53b8303105ec542cd4478a24d878de5f1a5ac9a4[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Aug 24 11:09:16 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit f75777b3543334c9c148c19dac8ce3d85d0df9b4[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Aug 23 07:15:06 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 1bbc6f1d9bc6caf21d406ae5f4e4e4c4790b4822[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Aug 22 09:04:02 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 8c97555b5258f8fb373aee112aa85456ba3eae58[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Aug 21 08:58:43 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit c9f3d30f65be11a44e75c707a409cd0f9c03e937[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Aug 20 11:29:28 2024 +0530
+
+    LeetCode Daily Problem Solved
+
+[33mcommit 0ebda6f86c5fcf0b792de5c45fa8ec4ca88d04b2[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Aug 19 10:49:06 2024 +0530
+
+    solved one more problem
+
+[33mcommit c266960daef8af2b95dea8826a0908309a1fd4aa[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Aug 19 09:58:13 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 259fad5359cba187b45ca53009e4148f92bbdfab[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Aug 18 16:35:58 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit d3194b4d855b9b790dc2f9427786c1014059d664[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Aug 17 11:09:51 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 0acfd92e90d969bfe722cee6fe28d5481be5f38d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Aug 16 15:17:22 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit b69f467d1520d2f8afd0ea1a1f420cbb29cc4fa1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Aug 15 12:58:40 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 3660360eaf14bf9a2d0438d37eb1075fcd2a4152[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Aug 14 17:33:06 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 5af6574490611d88a30d3a1de997098883137c97[m
+Author: 07subhadip <91666506+07subhadip@users.noreply.github.com>
+Date:   Mon Aug 12 09:11:38 2024 +0530
+
+    Update README.md
+
+[33mcommit c2cd98c39e73e6c0a6948a2e04d1dc48117d9578[m
+Author: 07subhadip <91666506+07subhadip@users.noreply.github.com>
+Date:   Mon Aug 12 09:09:12 2024 +0530
+
+    Create README.md
+
+[33mcommit fe0f4d8468bf78ce6da42c72b8afd0aabbe2370b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Aug 12 09:04:47 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit a9a729720ea92f8daf9b88662b53899d8e31274c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Aug 11 20:06:48 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit fe2ee6e45f37ca1f16f79ce2ad2b44779aa0ebff[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Aug 10 17:17:53 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit ed81eb0dfed6c3e8892ed023ae1a5010637bf625[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Aug 9 10:48:34 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 2701bfbd6bdce49655a39062d4c8e93e8a060655[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Aug 8 10:42:52 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit b3b100721429e2b23e250028b143d161dd3b922a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Aug 7 13:35:13 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 6782e0de018cdaeafb4d4952de10d93855e805df[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Aug 6 22:39:23 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 35b80b35411bf0dbebcd200e77b91cd9a814d412[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Aug 5 16:58:38 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 6f19c58480843aa0c2c78e482af73b982d95f905[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Aug 4 17:56:06 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 971ee2e14e7bbc6fba332b03e8ce5233c3ce328a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Aug 3 17:13:52 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 6a7f3509f944e87116d8f860076353629839ed9a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Aug 2 20:51:52 2024 +0530
+
+    leetcode problem solved
+
+[33mcommit 674a57e5cca3733e74ceae24214af4fd255e8064[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Aug 1 15:52:44 2024 +0530
+
+    leetcode problem solve in javascript
+
+[33mcommit b312045716028f6604369764be776b6742dc0577[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jul 27 11:25:57 2024 +0530
+
+    leetcode problem solved
+
+[33mcommit e4584a552872810e95e7fa70b983f87a96771e83[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jul 26 12:58:56 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit ae1a3ca68203e4aedac66d3ccf7ed91256e2d3e9[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jul 25 19:15:45 2024 +0530
+
+    leetcode problem solved 25-07-2024
+
+[33mcommit f789989efd44f1b8a971d610a6d2382155525b7a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jul 24 18:01:45 2024 +0530
+
+    beats 100.00% coders || Optimized code
+
+[33mcommit 8e73769c6dc4f5ae6a36f0f364ea3be9731c0ff7[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jul 23 13:17:26 2024 +0530
+
+    leetcode daily problem solved in js
+
+[33mcommit ddfb0267850f1d4d7f2a633b752ddb2c5da2c10f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jul 22 20:17:07 2024 +0530
+
+    leetcode problem solved in js
+
+[33mcommit fddbf7766f37dccbc52ff1bec4298423d988439b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jul 20 17:51:35 2024 +0530
+
+    leetcode dailyproblem solved
+
+[33mcommit bef4caff290c1dd04804cf88f7b7f1c92bb00600[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jul 19 19:12:31 2024 +0530
+
+    leetcode daily problem solved
+
+[33mcommit 76d8871e497950446c86cd5c90c7714b8096813d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jul 18 20:41:25 2024 +0530
+
+    leetcode 18-07-24 problem solved
+
+[33mcommit 88754604eb2ed16748338ecf05423d71582dbb18[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jul 18 20:39:29 2024 +0530
+
+    leet code problem solved
+
+[33mcommit 2f1f1e2aa00a791c32bc5375e4a87800bb4aaf65[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jul 16 19:13:08 2024 +0530
+
+    solved leetcode daily problem
+
+[33mcommit a4f57348a71fbae3350516e497e105b742574351[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jul 15 17:29:28 2024 +0530
+
+    leetcode problem solved
+
+[33mcommit 6b551bd503f6ec6bd8ceb6e7800ec0b20a23fbab[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jul 14 11:09:06 2024 +0530
+
+    14-07-2024 problem solved
+
+[33mcommit 9020db69753d0df7952914c95bf424a0809ab7cd[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jul 13 13:14:57 2024 +0530
+
+    leetcode problem solved in js
+
+[33mcommit dd57fa7a0c7c8dedb943acf95a7e47f7e0f04b9d[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jul 11 10:02:57 2024 +0530
+
+    daily problem solved
+
+[33mcommit 5c0d96dab8c93808d704f8b95c6e2aafa98ee6ad[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jul 10 08:19:20 2024 +0530
+
+    daily_problem solved
+
+[33mcommit 43d086b6bcb0446ebf29e995729d53ee0e31116b[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jun 23 09:11:12 2024 +0530
+
+    leetcode problem23-06-2024 solved in js
+
+[33mcommit d4bb37696e10100034acc3d612177ffe1a98a7be[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jun 22 09:52:57 2024 +0530
+
+    leetcode problem 22-06-2024
+
+[33mcommit 8f2c1ca3c007fb49ef0d9fbdccbd5470749f470a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jun 21 23:18:40 2024 +0530
+
+    leetcode problem solved
+
+[33mcommit e2cd7c5b29d6630d5ee62f17ff5a6bb6ca4ceab5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jun 20 10:24:25 2024 +0530
+
+    uploaded
+
+[33mcommit 13735ae119e092e0f09152111ccd97ae3d4c9fd1[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jun 19 08:16:48 2024 +0530
+
+    1482 problem solved
+
+[33mcommit aec407b3db8b84257f11c9154b96a2784c19baf5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jun 18 08:29:48 2024 +0530
+
+    daily problem solved
+
+[33mcommit 7e0d2835c2467f76fb9810e795684c2f66ec13b5[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Mon Jun 17 06:12:40 2024 +0530
+
+    today's problem solved
+
+[33mcommit 6a3952336530f52d24e479d6ea4ff2f3257fbc2a[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sun Jun 16 08:16:29 2024 +0530
+
+    patching_array  daily problem solved
+
+[33mcommit 8bbfa6c16907b4916bf9590c8965b73406b20826[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Sat Jun 15 06:40:46 2024 +0530
+
+    IPO problem solved
+
+[33mcommit cdccd4dad116cf96ea8ef9900739f83db2030e75[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Fri Jun 14 07:09:08 2024 +0530
+
+    Daily problem solved 14-06-2024
+
+[33mcommit d4e004993a44d789ff5bc562b2ac01d12c056900[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jun 13 08:12:11 2024 +0530
+
+    palindrome check
+
+[33mcommit 6b5510281535dad15528403e00592a317c000aa9[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Thu Jun 13 08:03:52 2024 +0530
+
+    daily challange streak 3
+
+[33mcommit db58e6428a2b3eed083d6a563204f805a7405b65[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jun 12 07:13:29 2024 +0530
+
+    08 problem solution
+
+[33mcommit cc94a4ae7d4db2b3a890d1d1682d8daf170c468c[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jun 12 07:07:37 2024 +0530
+
+    reverse integer problem
+
+[33mcommit ee4dd61549a64758c39c1676bb63e71cfae84738[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jun 12 07:03:39 2024 +0530
+
+    problem 06
+
+[33mcommit 169f5c1a248f2f8577f821959616d25b0960bf70[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jun 12 06:59:10 2024 +0530
+
+    problem 05
+
+[33mcommit 24a86678118f2b60834882e4d8bc336e0ba23827[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Wed Jun 12 06:53:56 2024 +0530
+
+    Dutch National Flag Algorithm
+
+[33mcommit 7723604e37476b6f968d416fd35dc11e399ea7a3[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jun 11 10:24:00 2024 +0530
+
+    started problem of the day in leetcode
+
+[33mcommit db6f532ca7fab5ecf1ed803d5592bbf4837a8a5f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jun 11 10:19:18 2024 +0530
+
+    04-leetcode problem solution
+
+[33mcommit 2f94ba978f3c809e10493a5f6e16f413f121ed8f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jun 11 09:46:07 2024 +0530
+
+    03-leetcode problem solution
+
+[33mcommit 8bc7095d0d4151ac3480dc8c4cf56f7e2c08aba9[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jun 11 09:09:44 2024 +0530
+
+    02-Add_Two_Numbers
+
+[33mcommit 7f6ef20707b8e0f5b673b8db4109c5bd05512b2f[m
+Author: 07subhadip <subhadiphensh31102000@gmail.com>
+Date:   Tue Jun 11 08:47:30 2024 +0530
+
+    first commit
